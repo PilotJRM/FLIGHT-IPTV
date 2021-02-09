@@ -3,10 +3,10 @@
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c1/eb/b2/c1ebb2bb273fedce9ea525daef9e0f2f.png" group-title="📺24horas☆📺" tvg-name="",POCOYÓ
 https://www.youtube.com/watch?v=VDKX4Iy-6yk
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/02/73/5d/02735db8ab128d4a66a39bfc9a00535e.png"📺24horas☆📺" tvg-name="",Cartoon Network Stream 24hs
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/02/73/5d/02735db8ab128d4a66a39bfc9a00535e.png" group-title="📺24horas☆📺" tvg-name="",Dibujos Animados
 https://www.youtube.com/watch?v=urTdDSueSDI
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7  Paw Patroll" tvg-logo="https://seeklogo.com/images/P/paw-patrol-logo-06B562C20B-seeklogo.com.png" group-title="📺24horas☆📺",Paw Patroll
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/P/paw-patrol-logo-06B562C20B-seeklogo.com.png"📺24horas☆📺" tvg-name="",Paw Patroll
 https://www.youtube.com/watch?v=kg1I6vR1t0g
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7  Paw Patroll" tvg-logo="https://static.wikia.nocookie.net/ideas/images/c/c7/WB_Kids_2019.svg/revision/latest/scale-to-width-down/340?cb=20201023182453" group-title="📺24horas☆📺",Tom y Jerry
@@ -65,6 +65,8 @@ http://xtremesportsplus.myq-see.com:8080/peppe/peppe/10748
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Marvel_Studios_2016_logo.svg/1280px-Marvel_Studios_2016_logo.svg.png" group-title="📺24horas☆📺" tvg-name="",Cinema Marvel Studios HD
 http://xtremesportsplus.myq-see.com:8080/peppe/peppe/10747
+
+█►SERIES & CINEMA◄█ 
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/axn.jpg" group-title="SERIES" tvg-name="",AXN |HD
 http://170.247.204.9:8000/play/a06f
@@ -174,6 +176,8 @@ http://170.247.204.9:8000/play/aehd
 #EXTINF:-1 tvg-logo="https://television.mxdwn.com/wp-content/uploads/2019/04/amc-logo.jpg" group-title="SERIES" tvg-name="",AMC HD
 http://170.247.204.9:8000/play/a056
 
+█►CULTURA◄█ 
+
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/animal.jpg" group-title="CULTURA" tvg-name="",ANIMAL PLANET |HD
 http://170.247.204.9:8000/play/animalplanethd
 
@@ -233,6 +237,8 @@ http://170.247.204.9:8000/play/a073
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/1200px-Sun_Channel_logo.svg.png" group-title="CULTURA" tvg-name="ENTRETENIMIENTO",Sun Channel HD
 http://170.247.204.9:8000/play/a0aj
+
+█►ENTRETENIMIENTO◄█ 
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/junio/mtv.png" group-title="ENTRETENIMIENTO" tvg-name="",MTV HD
 http://xtremesportsplus.myq-see.com:8080/peppe/peppe/14107
@@ -297,6 +303,8 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI--T47nHxASyeL3CSBJntn1I2npLn8Zd-nA&usqp=CAU" group-title="PRUEBAS" tvg-name="",DW
 https://www.youtube.com/watch?v=bKpGAHgpYoU
 
+█►COMIQUITAS◄█ 
+
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR085BABYTV.png" group-title="📺NIÑ@S📺" tvg-name="",Baby TV
 http://latvonlive.com:33612/Lili/1234/235
 
@@ -336,8 +344,12 @@ http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w1586053473.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="📺NIÑ@S📺" tvg-name="",Cartoon Network |HD
 http://170.247.204.9:8000/play/a05i
 
+█►DEPORTES◄█
+
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR326NBATVFHD.png" group-title="📺DEPORTES📺" tvg-name="",NBA TV"
 http://latvonlive.com:33612/Lili/1234/262
+
+█►MUSICAS◄█
 
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_10/large.musictop2020.png.99d94848bab42ba81b3432050a46eb0f.png" group-title="Music" tvg-name="",Music Top | HD
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
@@ -362,6 +374,8 @@ http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://optic-communications.com/wp-content/uploads/2017/05/vh1.png" group-title="Music" tvg-name="",VH1 |HD
 http://latvonlive.com:33612/Lili/1234/577
+
+█►RELAJACION◄█ 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/P7d1H83IcjE/maxresdefault.jpg?v=5ea39f86" group-title="PRUEBAS" tvg-name="",4K Nature
 https://www.youtube.com/watch?v=P7d1H83IcjE
