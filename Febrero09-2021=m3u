@@ -30,7 +30,16 @@ https://www.youtube.com/watch?v=-2-sBvOLNc4
 #EXTINF:-1 tvg-logo="https://i0.wp.com/imagenesparapeques.com/wp-content/uploads/2014/07/Logo-con-peppa-pig.png?ssl=1" group-title="📺24horas☆📺" tvg-name="",Peppa Pig
 https://www.youtube.com/watch?v=3V9FJDBOt4Y
 
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Disney Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Disney_cinema_logo.png" group-title="📺24horas☆📺",Cinema Disney Family HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/internationalbroadcasts/images/2/2f/Oddbods_logo.jpg/revision/latest/scale-to-width-down/340?cb=20141108093454" group-title="📺24horas☆📺" tvg-name="",Oddbods
+https://www.youtube.com/watch?v=hDEvPlgyF9k
+
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/284-2844660_booba-kids-content-cartoon-content-children-movies-booba.png" group-title="📺24horas☆📺",Booba
+https://www.youtube.com/watch?v=H4h8hd4o7jo
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjE8Rr34euMGiWeb8C5Q7K0WA8hx7-Cdm0oY4PoZw=s900-c-k-c0x00ffffff-no-rj" group-title="📺24horas☆📺",Simón
+https://www.youtube.com/watch?v=nD8llN5gRtY
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Disney_cinema_logo.png" group-title="📺24horas☆📺",Cinema Disney Family HD
 http://xtremesportsplus.myq-see.com:8080/peppe/peppe/11186
 
 #EXTINF:-1 tvg-logo="https://www.megaidea.net/wp-content/uploads/2018/06/simpson-2-670x1024.png" group-title="📺24horas☆📺" tvg-name="",Los Simpson
