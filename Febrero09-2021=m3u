@@ -1,13 +1,34 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c1/eb/b2/c1ebb2bb273fedce9ea525daef9e0f2f.png" group-title="📺24horas☆📺" tvg-name="",POCOYÓ
-https://www.youtube.com/watch?v=Ohl5gS8eCb0
+https://www.youtube.com/watch?v=VDKX4Iy-6yk
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/02/73/5d/02735db8ab128d4a66a39bfc9a00535e.png"📺24horas☆📺" tvg-name="",Cartoon Network Stream 24hs
+https://www.youtube.com/watch?v=urTdDSueSDI
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7  Paw Patroll" tvg-logo="https://seeklogo.com/images/P/paw-patrol-logo-06B562C20B-seeklogo.com.png" group-title="📺24horas☆📺",Paw Patroll
-http://xtremesportsplus.myq-see.com:8080/peppe/peppe/14164
+https://www.youtube.com/watch?v=kg1I6vR1t0g
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Paw Patroll" tvg-logo="https://static.wikia.nocookie.net/ideas/images/c/c7/WB_Kids_2019.svg/revision/latest/scale-to-width-down/340?cb=20201023182453" group-title="📺24horas☆📺",Tom y Jerry
+https://www.youtube.com/watch?v=CineGKERSyE
+
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/81RAq3YwcTL.png" group-title="📺24horas☆📺" tvg-name="",HEY Kids Canciones Infantiles 
+https://www.youtube.com/watch?v=0c75oPy6cp8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/14/d9/66/14d966e2b0807d14efaace1c5fedd106.png" group-title="📺24horas☆📺" tvg-name="",CoComelon
+https://www.youtube.com/watch?v=z2kA_GOLYI0
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/96/0e/2e/960e2eed6c29637aa2533e191b4d26cb.png" group-title="📺24horas☆📺" tvg-name="",Pororo el pequeño pingüino
+https://www.youtube.com/watch?v=wSJdgTbTpFY
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhygRuhrdKEbm9bqOqXezsnAParEkOdgwM9GFXH=s900-c-k-c0x00ffffff-no-rj" group-title="📺24horas☆📺" tvg-name="",¡QUÉ GUAY! Spanish Cartoons
+https://www.youtube.com/watch?v=kzB1GNRjVHE
+
+#EXTINF:-1 tvg-logo="https://next-episode.net/tv-shows-images/big/larva.jpg" group-title="📺24horas☆📺" tvg-name="",LARVA TV
+https://www.youtube.com/watch?v=-2-sBvOLNc4
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/imagenesparapeques.com/wp-content/uploads/2014/07/Logo-con-peppa-pig.png?ssl=1" group-title="📺24horas☆📺" tvg-name="",Peppa Pig
-http://xtremesportsplus.myq-see.com:8080/peppe/peppe/7493
+https://www.youtube.com/watch?v=3V9FJDBOt4Y
 
 #EXTINF:-1 tvg-id="" tvg-name="Cinema Disney Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Disney_cinema_logo.png" group-title="📺24horas☆📺",Cinema Disney Family HD
 http://xtremesportsplus.myq-see.com:8080/peppe/peppe/11186
