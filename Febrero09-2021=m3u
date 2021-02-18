@@ -33,59 +33,59 @@ http://xtremesportsplus.myq-see.com:8080/peppe/peppe/10748
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Marvel_Studios_2016_logo.svg/1280px-Marvel_Studios_2016_logo.svg.png" group-title="📺24horas☆📺" tvg-name="",Cinema Marvel Studios HD
 http://xtremesportsplus.myq-see.com:8080/peppe/peppe/10747
 
-
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR085BABYTV.png" group-title="📺NIÑ@S📺" tvg-name="",Baby TV
-http://45.170.40.2:8000/play/a02o
+http://45.170.40.2:8000/play/a01t
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US789BOOMERANGHD.png" group-title="📺NIÑ@S📺" tvg-name="",Boomerang
+https://2.bp.blogspot.com/-R7Ep3OZv9iA/Vt4y8bQ9vjI/AAAAAAAAI74/O7jaLhHRzm8/s1600/fuera-de-servicio.jpg
 
 #EXTINF:-1 tvg-logo="https://cachipum.tv/wp-content/uploads/2020/04/logo.png" group-title="📺NIÑ@S📺" tvg-name="",Cachipum tv | HD
 http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w1586053473.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="📺NIÑ@S📺" tvg-name="",Cartoon Network |HD
-http://45.170.40.2:8000/play/a03b
+http://45.170.40.2:8000/play/a04i
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/nap3dLw95-c/hqdefault.jpg" group-title="📺NIÑ@S📺" tvg-name="",Discovery Kids 
-http://45.170.40.2:8000/play/a04d
+http://45.170.40.2:8000/play/a035
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US027Disney-JR.png" group-title="📺NIÑ@S📺" tvg-name="",Disney JR SD
-http://45.170.40.2:8000/play/a032
+http://45.160.73.129:8000/play/a00k
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR044DisneyFR.png" group-title="📺NIÑ@S📺" tvg-name="",Disney |HD
-http://45.170.40.2:8000/play/a024
+http://45.160.73.129:8000/play/a02f
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/96/ee/5f/96ee5f700da7a177c40262231f650467.png" group-title="📺NIÑ@S📺" tvg-name="",Disney |HD
 http://xtremesportsplus.myq-see.com:8080/peppe/peppe/973
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR047DisneyXDFR.png" group-title="📺NIÑ@S📺" tvg-name="",Disney XD 
-http://45.170.40.2:8000/play/a01q
+http://45.170.40.2:8000/play/a01s
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR210NatGeoKidsFHD.png" group-title="📺NIÑ@S📺" tvg-name="",Nat Geo Kids 
-http://45.160.73.129:8000/play/a07k
+http://45.160.73.129:8000/play/a011
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK169NickJr.png" group-title="📺NIÑ@S📺" tvg-name="",Nick JR
-http://45.160.73.129:8000/play/a027
+http://45.160.73.129:8000/play/a026
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US141Nickelodeon.png" group-title="📺NIÑ@S📺" tvg-name="",Nickelodeon 
-http://45.160.73.129:8000/play/a02f
+http://45.170.40.2:8000/play/a00j
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US141Nickelodeon.png" group-title="📺NIÑ@S📺" tvg-name="",Nickelodeon 
-http://45.160.73.129:8000/play/a00k
+http://45.160.73.129:8000/play/a00o
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/8/8e/TeenNick_logo_2009.png/revision/latest?cb=20190106192043" group-title="📺NIÑ@S📺" tvg-name="",TEEN NICK |HD
 http://latvonlive.com:33612/Lili/1234/417
 
-
-
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/axn.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",AXN |HD
-http://45.170.40.2:8000/play/a095
+http://45.160.73.129:8000/play/a01x
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/AE.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",A&E HD
-http://45.170.40.2:8000/play/a017
+http://45.170.40.2:8000/play/a00h
 
 #EXTINF:-1 tvg-logo="https://television.mxdwn.com/wp-content/uploads/2019/04/amc-logo.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",AMC HD
-http://45.170.40.2:8000/play/a017
+http://45.170.40.2:8000/play/a01h
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/cinemax.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",CINEMAX |HD
-http://45.170.40.2:8000/play/a01f
+http://45.170.40.2:8000/play/a00c
 
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/eurochannel_0.jpg?1527331141" group-title="📺SERIES & CINEMA📺" tvg-name="",EURO Channel SD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/772
@@ -106,7 +106,7 @@ http://xtremesportsplus.myq-see.com:8080/peppe/peppe/24021
 http://xtremesportsplus.myq-see.com:8080/peppe/peppe/80
 
 #EXTINF:-1 tvg-logo="http://51.15.181.146/iconos/hbo.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",HBO |HD
-http://45.170.40.2:8000/play/a01c
+http://45.238.21.106:8000/play/a03b/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://51.15.181.146/iconos/hbo2.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",HBO2 |HD
 http://45.170.40.2:8000/play/a04z
@@ -120,67 +120,68 @@ http://xtremesportsplus.myq-see.com:8080/peppe/peppe/747
 #EXTINF:-1 tvg-logo="http://51.15.181.146/iconos/hopluse.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",HBO Plus |HD
 http://xtremesportsplus.myq-see.com:8080/peppe/peppe/307
 
-#EXTINF:-1 tvg-logo="http://51.15.181.146/iconos/hbosigna.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",HBO Signature |HD
-https://angelbberry.files.wordpress.com/2013/01/fuera-de-servicio-bbm-bbpin.gif?w=250
+#EXTINF:-1 tvg-logo="http://51.15.181.146/iconos/HBOXTREME.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",HBO Xtreme |HD
+http://45.160.73.129:8000/play/a00i
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/paramont.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",Paramount |HD
 http://localdblagent.club:8080/October25/October25/12133
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/sony.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",SONY SD
-http://45.160.73.129:8000/play/a00f
+http://45.160.73.129:8000/play/a01w
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rtgxsqC/STAR-Channel.png" group-title="📺SERIES & CINEMA📺" tvg-name="",STAR Channel |HD
-http://45.170.40.2:8000/play/a00j
+http://45.170.40.2:8000/play/a04s
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dBRV3Pk/STAR-Life.png" group-title="📺SERIES & CINEMA📺" tvg-name="",STAR Life |HD
-http://45.170.40.2:8000/play/a007
+http://45.238.21.106:8000/play/a01q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qsMcD5L/STAR-Action.png" group-title="📺SERIES & CINEMA📺" tvg-name="",STAR Action |HD
-http://45.170.40.2:8000/play/a025
+http://45.170.40.2:8000/play/a03r
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k215Dcc/STAR-Comedy.png" group-title="📺SERIES & CINEMA📺" tvg-name="",STAR Comedy|HD
 http://xtremesportsplus.myq-see.com:8080/peppe/peppe/738
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VgpxYK8/STAR-Fun.png" group-title="📺SERIES & CINEMA📺" tvg-name="",STAR Fun |HD
-http://45.170.40.2:8000/play/a020
+http://45.170.40.2:8000/play/a01p
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PQprMbb/STAR-Hits.png" group-title="📺SERIES & CINEMA📺" tvg-name="",STAR Hits |HD
-http://45.170.40.2:8000/play/a07q
+http://45.170.40.2:8000/play/a033
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GV8XBdf/STAR-Series.png" group-title="📺SERIES & CINEMA📺" tvg-name="",STAR Series |HD
-http://45.170.40.2:8000/play/a07q
+http://45.170.40.2:8000/play/a031
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yYfM0Bw/STAR-Cinema.png" group-title="📺SERIES & CINEMA📺" tvg-name="",STAR Cinema |HD
 http://xtremesportsplus.myq-see.com:8080/peppe/peppe/734
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WPK3CwN/STAR-Classics.png" group-title="📺SERIES & CINEMA📺" tvg-name="",STAR Classics |HD
-http://45.170.40.2:8000/play/a01u
+http://45.170.40.2:8000/play/a01q
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/sapcehd.png" group-title="📺SERIES & CINEMA📺" tvg-name="",SPACE HD
-http://45.160.73.129:8000/play/a00e
+http://45.160.73.129:8000/play/a01y
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR090StudioUniversal.png" group-title="📺SERIES & CINEMA📺" tvg-name="",STUDIO UNIVERSAL |HD
-http://45.160.73.129:8000/play/a00e
+http://45.170.40.2:8000/play/a01k
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/SYFY.png" group-title="📺SERIES & CINEMA📺" tvg-name="",SYFY 
 http://xtremesportsplus.myq-see.com:8080/peppe/peppe/676
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/tnthd.png" group-title="📺SERIES & CINEMA📺" tvg-name="",TNT |HD
-http://45.160.73.129:8000/play/a005
+http://45.170.40.2:8000/play/a052
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/tntseries.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",TNT SERIES
-http://45.160.73.129:8000/play/a00i
+http://45.170.40.2:8000/play/a057
 
-#EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/universal.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",UNIVERSAL CHANEL
-http://45.160.73.129:8000/play/a006
+#EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/universal.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",UNIVERSAL 
+http://45.170.40.2:8000/play/a04z
 
 #EXTINF:-1 tvg-logo="http://xtremesportsplus.myq-see.com:8080/images/72a6af9fbf8ef425faf15f9cb5abdc88.png" group-title="📺SERIES & CINEMA📺" tvg-name="",WARNER HD
 http://45.160.73.129:8000/play/a05i
 
-
-
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/animal.jpg" group-title="📺CULTURA📺" tvg-name="",ANIMAL PLANET |HD
 http://45.160.73.129:8000/play/a02h
+
+#EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/animal.jpg" group-title="📺CULTURA📺" tvg-name="",ANIMAL PLANET |HD
+http://45.238.21.106:8000/play/a00e/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/discovery.jpg" group-title="📺CULTURA📺" tvg-name="",DISCOVERY CHANNEL |HD
 http://45.170.40.2:8000/play/a03b
@@ -211,29 +212,31 @@ http://45.170.40.2:8000/play/a01f
 http://91.126.141.12:1935/live/discoverymax/chunklist_w1033105812.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Discovery_Civilization_1998.png/revision/latest?cb=20091112185125" group-title="📺CULTURA📺" tvg-name="",Discovery Civilization
-http://ipflix.click:8080/8ytqstl4ag/r4mcbr3tja/6696
+http://45.170.40.2:8000/play/a022
 
 #EXTINF:-1 tvg-logo="http://xtremesportsplus.myq-see.com:8080/images/3cd15f8f2940aff879df34df4e5c2cd1.jpg" group-title="📺CULTURA📺" tvg-name="",HISTORY |HD
 http://latvonlive.com:33612/Lili/1234/598
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/h2.jpg" group-title="📺CULTURA📺" tvg-name="",H2 SD
-http://45.170.40.2:8000/play/a003
+http://45.170.40.2:8000/play/a021
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/HGTV_2010.svg" group-title="📺CULTURA📺" tvg-name="",HGTV HD
 http://45.170.40.2:8000/play/a022
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/natgeo.jpg" group-title="📺CULTURA📺" tvg-name="",NAT GEO |HD
-http://45.160.73.129:8000/play/a01v
+http://45.170.40.2:8000/play/a056
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/natgeowild.jpg" group-title="📺CULTURA📺" tvg-name="",NATGEO WILD SD
-http://45.160.73.129:8000/play/a01a
+http://45.170.40.2:8000/play/a020
+
+#EXTINF:-1 tvg-logo="https://streamingtvguides.com/img/so/NGMUNDO.png" group-title="📺CULTURA📺" tvg-name="",NATGEO MUNDO  |HD
+https://2.bp.blogspot.com/-R7Ep3OZv9iA/Vt4y8bQ9vjI/AAAAAAAAI74/O7jaLhHRzm8/s1600/fuera-de-servicio.jpg
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/tlc-discovery.jpg" group-title="📺CULTURA📺" tvg-name="",TLC 
 http://latvonlive.com:33612/Lili/1234/65
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/trutvs.jpg" group-title="📺CULTURA📺" tvg-name="",TruTV HD
-http://xtremesportsplus.myq-see.com:8080/peppe/peppe/2224
-
+http://xtremesportsplus.myq-see.com:8080/peppe/peppe/2224 
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/antena3.jpg" group-title="📺ENTRE📺" tvg-name="",ANTENA 3 SERIES
 http://localdblagent.club:8080/October25/October25/12038
@@ -247,11 +250,14 @@ http://latvonlive.com:33612/Lili/1234/353
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/comedy.png" group-title="📺ENTRE📺" tvg-name="",COMEDY CENTRAL HD
 http://latvonlive.com:33612/Lili/1234/415
 
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA265DHE.png" group-title="📺ENTRE📺" tvg-name="",DHE HD
+https://2.bp.blogspot.com/-R7Ep3OZv9iA/Vt4y8bQ9vjI/AAAAAAAAI74/O7jaLhHRzm8/s1600/fuera-de-servicio.jpg
+
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/distrito-comedy.jpg" group-title="📺ENTRE📺" tvg-name="",DISTRITO COMEDIA TP MX
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/691
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/E.jpg" group-title="📺ENTRE📺" tvg-name="",E! 
-http://45.170.40.2:8000/play/a033
+http://45.238.21.106:8000/play/a00g/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA044ELGourmet.png" group-title="📺ENTRE📺" tvg-name="",EL GOURMET HD
 http://45.170.40.2:8000/play/a036
@@ -262,6 +268,8 @@ http://latvonlive.com:33612/Lili/1234/904
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="📺ENTRE📺" tvg-name="",FILMS & ARTS HD
 http://45.170.40.2:8000/play/a024
 
+#EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/food.png" group-title="📺ENTRE📺" tvg-name="",FOOD NETWORK TP MX
+https://2.bp.blogspot.com/-R7Ep3OZv9iA/Vt4y8bQ9vjI/AAAAAAAAI74/O7jaLhHRzm8/s1600/fuera-de-servicio.jpg
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Garage_TV_2007.png/revision/latest/scale-to-width-down/340?cb=20200309141618" group-title="📺ENTRE📺" tvg-name="",GarageTV
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
@@ -272,9 +280,6 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/holatv.jpg" group-title="📺ENTRE📺" tvg-name="",HOLA !TV SD
 http://latvonlive.com:33612/Lili/1234/543
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo-latina-noticias.png" group-title="📺ENTRE📺" tvg-name="",LATINA PERU
-http://localdblagent.club:8080/October25/October25/13837
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/TVE1_logo_2007.png/revision/latest/scale-to-width-down/340?cb=20200324214729&path-prefix=es" group-title="📺ENTRE📺" tvg-name="",LA 1 |HD
 https://rtvelivestream.akamaized.net/la1_dvr_4000.m3u8
 
@@ -282,7 +287,7 @@ https://rtvelivestream.akamaized.net/la1_dvr_4000.m3u8
 http://latvonlive.com:33612/Lili/1234/595
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/junio/mtv.png" group-title="📺ENTRE📺" tvg-name="",MTV HD
-http://45.160.73.129:8000/play/a032
+http://45.160.73.129:8000/play/a00w
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/junio/mtv.png" group-title="📺ENTRE📺" tvg-name="",MTV HD
 http://localdblagent.club:8080/October25/October25/12127
@@ -293,9 +298,8 @@ http://latvonlive.com:33612/Lili/1234/365
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/Unicable.jpg" group-title="📺ENTRE📺" tvg-name="",UNICABLE TP MX
 http://latvonlive.com:33612/Lili/1234/12
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/890px-Htv_logo.svg.png" group-title="📺Music📺" tvg-name="",HTV | HD
-http://45.160.73.129:8000/play/a00m
+http://45.170.40.2:8000/play/a027
 
 #EXTINF:-1 tvg-logo="https://optic-communications.com/wp-content/uploads/2017/05/vh1.png" group-title="📺Music📺" tvg-name="",VH1 |HD
 http://latvonlive.com:33612/Lili/1234/577
@@ -320,8 +324,6 @@ https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-GNoA1fHtLGY/XsC-sFOKBZI/AAAAAAAAviM/uO7BSvpoCBU_At8yMHF5ElYD7lirNYfzgCLcBGAsYHQ/s200/Hits360.png" group-title="📺Music📺" tvg-name="",Hits360 (RD
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/chunks.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR326NBATVFHD.png" group-title="📺DEPORTES📺" tvg-name="",NBA TV"
 http://latvonlive.com:33612/Lili/1234/262
