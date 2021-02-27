@@ -37,7 +37,7 @@ http://xtremesportsplus.myq-see.com:8080/peppe/peppe/10747
 http://45.170.40.2:8000/play/a01t
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US789BOOMERANGHD.png" group-title="📺NIÑ@S📺" tvg-name="",Boomerang
-http://tv.nousiptv.com:8080/Nancy/12345/3085
+http://latvonlive.com:33612/movie/Lili/1234/38554.mp4
 
 #EXTINF:-1 tvg-logo="https://cachipum.tv/wp-content/uploads/2020/04/logo.png" group-title="📺NIÑ@S📺" tvg-name="",Cachipum tv | HD
 http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w1586053473.m3u8
@@ -64,7 +64,7 @@ http://45.170.40.2:8000/play/a01s
 http://45.170.40.2:8000/play/a01u
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK169NickJr.png" group-title="📺NIÑ@S📺" tvg-name="",Nick JR
-http://tv.nousiptv.com:8080/Nancy/12345/3187
+http://latvonlive.com:33612/series/Lili/1234/21689.mp4
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US141Nickelodeon.png" group-title="📺NIÑ@S📺" tvg-name="",Nickelodeon 
 http://45.170.40.2:8000/play/a00j
@@ -85,7 +85,7 @@ http://45.170.40.2:8000/play/a01h
 http://45.170.40.2:8000/play/a00c
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA265DHE.png" group-title="📺SERIES & CINEMA📺" tvg-name="",DHE HD
-http://tv.nousiptv.com:8080/Nancy/12345/24180
+http://ipeteve.com/php/SR_REGIO220221/tv3.php?c=1467_&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/eurochannel_0.jpg?1527331141" group-title="📺SERIES & CINEMA📺" tvg-name="",EURO Channel SD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/772
@@ -106,7 +106,7 @@ http://xtremesportsplus.myq-see.com:8080/peppe/peppe/24021
 http://xtremesportsplus.myq-see.com:8080/peppe/peppe/80
 
 #EXTINF:-1 tvg-logo="http://51.15.181.146/iconos/hbo.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",HBO |HD
-http://tv.nousiptv.com:8080/Nancy/12345/3199
+http://45.170.40.2:8000/play/a02x
 
 #EXTINF:-1 tvg-logo="http://51.15.181.146/iconos/hbo2.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",HBO2 |HD
 http://45.170.40.2:8000/play/a02z
@@ -133,7 +133,7 @@ http://45.170.40.2:8000/play/a04h
 http://45.170.40.2:8000/play/a04s
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dBRV3Pk/STAR-Life.png" group-title="📺SERIES & CINEMA📺" tvg-name="",STAR Life |HD
-http://tv.nousiptv.com:8080/Nancy/12345/3203
+http://latvonlive.com:33612/movie/Lili/1234/33676.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qsMcD5L/STAR-Action.png" group-title="📺SERIES & CINEMA📺" tvg-name="",STAR Action |HD
 http://45.170.40.2:8000/play/a03r
@@ -175,10 +175,10 @@ http://45.170.40.2:8000/play/a057
 http://45.170.40.2:8000/play/a04z
 
 #EXTINF:-1 tvg-logo="http://xtremesportsplus.myq-see.com:8080/images/72a6af9fbf8ef425faf15f9cb5abdc88.png" group-title="📺SERIES & CINEMA📺" tvg-name="",WARNER HD
-http://tv.nousiptv.com:8080/Nancy/12345/3228
+http://45.170.40.2:8000/play/a04y
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/animal.jpg" group-title="📺CULTURA📺" tvg-name="",ANIMAL PLANET |HD
-http://tv.nousiptv.com:8080/Nancy/12345/4067
+http://latvonlive.com:33612/movie/Lili/1234/38241.mp4
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/discovery.jpg" group-title="📺CULTURA📺" tvg-name="",DISCOVERY CHANNEL |HD
 http://45.170.40.2:8000/play/a03b
@@ -186,7 +186,7 @@ http://45.170.40.2:8000/play/a03b
 http://45.170.40.2:8000/play/a04l
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/id.png" group-title="📺CULTURA📺" tvg-name="",Discovery ID |HD
-http://tv.nousiptv.com:8080/Nancy/12345/3600
+http://latvonlive.com:33612/movie/Lili/1234/4159.mp4
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/discoveryhh.jpg" group-title="📺CULTURA📺" tvg-name="",DISCOVERY H&H SD
 http://45.170.40.2:8000/play/a038
@@ -222,6 +222,9 @@ http://45.170.40.2:8000/play/a022
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/natgeo.jpg" group-title="📺CULTURA📺" tvg-name="",NAT GEO |HD
 http://45.170.40.2:8000/play/a056
+
+#EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/natgeo.jpg" group-title="📺CULTURA📺" tvg-name="",NAT GEO |HD
+http://latvonlive.com:33612/series/Lili/1234/19834.mp4
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/natgeowild.jpg" group-title="📺CULTURA📺" tvg-name="",NATGEO WILD SD
 http://45.170.40.2:8000/play/a020
@@ -263,7 +266,7 @@ http://latvonlive.com:33612/Lili/1234/904
 http://45.170.40.2:8000/play/a024
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/food.png" group-title="📺ENTRE📺" tvg-name="",FOOD NETWORK TP MX
-http://tv.nousiptv.com:8080/Nancy/12345/4146
+http://ipeteve.com/php/SR_REGIO220221/tv3.php?c=86_&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Garage_TV_2007.png/revision/latest/scale-to-width-down/340?cb=20200309141618" group-title="📺ENTRE📺" tvg-name="",GarageTV
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
