@@ -12,9 +12,6 @@ http://xtremesportsplus.myq-see.com:8080/peppe/peppe/2434
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/1200px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="📺24horas☆📺" tvg-name="",El Chapulin Colorado
 http://xtremesportsplus.myq-see.com:8080/peppe/peppe/17548
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ocM_Hgp_im0/maxresdefault.jpg" group-title="📺24horas☆📺" tvg-name="",De Película HD
-http://latvonlive.com:33612/Lili/1234/363
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Bob_esponja_logotipo.png" group-title="📺24horas☆📺" tvg-name="",Bob Esponja
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=700&deviceId=5f1acdaa8ba90f0007d5e760&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=41.1167&deviceLon=1.2500&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false
 
@@ -22,7 +19,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aca0b4e448e00075
 http://200.54.19.131:8500/play/a0kf
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US789BOOMERANGHD.png" group-title="📺NIÑ@S📺" tvg-name="",Boomerang
-http://latvonlive.com:33612/movie/Lili/1234/38554.mp4
+http://200.54.19.131:8500/play/a0h9
 
 #EXTINF:-1 tvg-logo="https://cachipum.tv/wp-content/uploads/2020/04/logo.png" group-title="📺NIÑ@S📺" tvg-name="",Cachipum tv | HD
 http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w1586053473.m3u8
@@ -49,15 +46,13 @@ http://45.170.40.2:8000/play/a01s
 http://190.13.162.66:8081/play/a01y
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK169NickJr.png" group-title="📺NIÑ@S📺" tvg-name="",Nick JR
-http://latvonlive.com:33612/series/Lili/1234/21689.mp4
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK169NickJr.png" group-title="📺NIÑ@S📺" tvg-name="",Nick JR
 http://190.13.162.66:8081/play/a00p
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US141Nickelodeon.png" group-title="📺NIÑ@S📺" tvg-name="",Nickelodeon 
-http://190.13.162.66:8081/play/a01l
+http://45.170.40.2:8000/play/a00j
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/8/8e/TeenNick_logo_2009.png/revision/latest?cb=20190106192043" group-title="📺NIÑ@S📺" tvg-name="",TEEN NICK |HD
-http://latvonlive.com:33612/Lili/1234/417
+http://localdblagent.club:8080/October25/October25/1640
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/axn.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",AXN |HD
 http://190.13.162.66:8081/play/a00w
@@ -75,6 +70,9 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA265DHE.png" group-title="📺SERIES & CINEMA📺" tvg-name="",DHE HD
 http://ipeteve.com/php/SR_REGIO220221/tv3.php?c=1467_&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ocM_Hgp_im0/maxresdefault.jpg" group-title="📺24horas☆📺" tvg-name="",De Película HD
+http://localdblagent.club:8080/October25/October25/12070
 
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/eurochannel_0.jpg?1527331141" group-title="📺SERIES & CINEMA📺" tvg-name="",EURO Channel SD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/772
@@ -98,7 +96,7 @@ http://localdblagent.club:8080/October25/October25/12103
 http://190.13.162.66:8081/play/a00t
 
 #EXTINF:-1 tvg-logo="http://51.15.181.146/iconos/hbo2.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",HBO2 |HD
-http://190.13.162.66:8081/play/a00l
+http://45.170.40.2:8000/play/a02z
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/hbo-fami.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",HBO Family |HD
 http://45.170.40.2:8000/play/a030
@@ -110,7 +108,7 @@ http://latvonlive.com:33612/Lili/1234/594
 http://45.170.40.2:8000/play/a02y
 
 #EXTINF:-1 tvg-logo="http://51.15.181.146/iconos/HBOXTREME.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",HBO Xtreme |HD
-http://tv.nousiptv.com:8080/Nancy/12345/44341
+http://localdblagent.club:8080/October25/October25/13444
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/paramont.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",Paramount |HD
 http://localdblagent.club:8080/October25/October25/12133
@@ -119,10 +117,8 @@ http://localdblagent.club:8080/October25/October25/12133
 http://190.13.162.66:8081/play/a00v
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rtgxsqC/STAR-Channel.png" group-title="📺SERIES & CINEMA📺" tvg-name="",ST☆R Channel |HD
-http://45.170.40.2:8000/play/a04s
+http://45.170.40.2:8000/play/a02u
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dBRV3Pk/STAR-Life.png" group-title="📺SERIES & CINEMA📺" tvg-name="",ST☆R Life |HD
-http://latvonlive.com:33612/movie/Lili/1234/33676.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dBRV3Pk/STAR-Life.png" group-title="📺SERIES & CINEMA📺" tvg-name="",ST☆R Life |HD
 http://190.13.162.66:8081/play/a01v
 
@@ -174,6 +170,9 @@ http://190.13.162.66:8081/play/a016
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/discovery.jpg" group-title="📺CULTURA📺" tvg-name="",DISCOVERY CHANNEL |HD
 http://190.13.162.66:8081/play/a015
 
+#EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/discovery.jpg" group-title="📺CULTURA📺" tvg-name="",DISCOVERY CHANNEL |HD
+http://45.170.40.2:8000/play/a04l
+
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/id.png" group-title="📺CULTURA📺" tvg-name="",Discovery ID |HD
 http://190.13.162.66:8081/play/a023
 
@@ -213,16 +212,16 @@ http://45.170.40.2:8000/play/a022
 http://190.13.162.66:8081/play/a01n
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/natgeo.jpg" group-title="📺CULTURA📺" tvg-name="",NAT GEO |HD
-http://latvonlive.com:33612/series/Lili/1234/19834.mp4
+http://45.170.40.2:8000/play/a056
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/natgeowild.jpg" group-title="📺CULTURA📺" tvg-name="",NATGEO WILD SD
 http://45.170.40.2:8000/play/a020
 
 #EXTINF:-1 tvg-logo="https://streamingtvguides.com/img/so/NGMUNDO.png" group-title="📺CULTURA📺" tvg-name="",NATGEO MUNDO  |HD
-https://2.bp.blogspot.com/-R7Ep3OZv9iA/Vt4y8bQ9vjI/AAAAAAAAI74/O7jaLhHRzm8/s1600/fuera-de-servicio.jpg
+http://localdblagent.club:8080/October25/October25/13743
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/tlc-discovery.jpg" group-title="📺CULTURA📺" tvg-name="",TLC 
-http://latvonlive.com:33612/Lili/1234/65
+http://localdblagent.club:8080/October25/October25/12148
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/trutvs.jpg" group-title="📺CULTURA📺" tvg-name="",TruTV HD
 http://45.170.40.2:8000/play/a037
@@ -230,17 +229,14 @@ http://45.170.40.2:8000/play/a037
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/antena3.jpg" group-title="📺ENTRE📺" tvg-name="",ANTENA 3 SERIES
 http://localdblagent.club:8080/October25/October25/12038
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA135AZMAS.png" group-title="📺ENTRE📺" tvg-name="",AZ MUNDO SD
-http://latvonlive.com:33612/Lili/1234/631
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtCaB4-xuepDYF5gaK2-17iyYx6xNHNAvzmQ&usqp=CAU" group-title="📺ENTRE📺" tvg-name="",CANAL 13 CHILE
-http://latvonlive.com:33612/Lili/1234/353
+http://190.13.162.66:8081/play/a00e
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/comedy.png" group-title="📺ENTRE📺" tvg-name="",COMEDY CENTRAL HD
-http://latvonlive.com:33612/Lili/1234/415
+http://localdblagent.club:8080/October25/October25/12068
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/distrito-comedy.jpg" group-title="📺ENTRE📺" tvg-name="",DISTRITO COMEDIA TP MX
-http://latvonlive.com:33612/Lili/1234/896
+http://localdblagent.club:8080/October25/October25/12032
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/E.jpg" group-title="📺ENTRE📺" tvg-name="",E! 
 http://190.13.162.66:8081/play/a018
@@ -249,7 +245,7 @@ http://190.13.162.66:8081/play/a018
 http://45.170.40.2:8000/play/a036
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/estrellatv.png" group-title="📺ENTRE📺" tvg-name="",ESTRELLA TV
-http://latvonlive.com:33612/Lili/1234/904
+http://localdblagent.club:8080/October25/October25/13777
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="📺ENTRE📺" tvg-name="",FILMS & ARTS HD
 http://45.170.40.2:8000/play/a024
@@ -264,28 +260,25 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/556
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/holatv.jpg" group-title="📺ENTRE📺" tvg-name="",HOLA !TV SD
-http://latvonlive.com:33612/Lili/1234/543
+http://localdblagent.club:8080/October25/October25/12109
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/TVE1_logo_2007.png/revision/latest/scale-to-width-down/340?cb=20200324214729&path-prefix=es" group-title="📺ENTRE📺" tvg-name="",LA 1 |HD
 https://rtvelivestream.akamaized.net/la1_dvr_4000.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES141CanaldelasEstrellas.png" group-title="📺ENTRE📺" tvg-name="",MAS CHIC SD
-http://latvonlive.com:33612/Lili/1234/595
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/junio/mtv.png" group-title="📺ENTRE📺" tvg-name="",MTV HD
 http://190.13.162.66:8081/play/a01t
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/utelenovela.jpg" group-title="📺ENTRE📺" tvg-name="",Univision TL Novelas
-http://latvonlive.com:33612/Lili/1234/365
+http://localdblagent.club:8080/October25/October25/12158
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/Unicable.jpg" group-title="📺ENTRE📺" tvg-name="",UNICABLE TP MX
-http://latvonlive.com:33612/Lili/1234/12
+http://localdblagent.club:8080/October25/October25/13815
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/890px-Htv_logo.svg.png" group-title="📺Music📺" tvg-name="",HTV | HD
 http://45.170.40.2:8000/play/a027
 
 #EXTINF:-1 tvg-logo="https://optic-communications.com/wp-content/uploads/2017/05/vh1.png" group-title="📺Music📺" tvg-name="",VH1 |HD
-http://latvonlive.com:33612/Lili/1234/577
+http://45.170.40.2:8000/play/a00n
 
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_10/large.musictop2020.png.99d94848bab42ba81b3432050a46eb0f.png" group-title="📺Music📺" tvg-name="",Music Top | HD
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
@@ -308,5 +301,8 @@ https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-GNoA1fHtLGY/XsC-sFOKBZI/AAAAAAAAviM/uO7BSvpoCBU_At8yMHF5ElYD7lirNYfzgCLcBGAsYHQ/s200/Hits360.png" group-title="📺Music📺" tvg-name="",Hits360 (RD
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.discgolf.ultiworld.com/wp-content/uploads/2020/10/ESPN2.png" group-title="📺DEPORTES📺" tvg-name="",ESPN2"
+http://45.170.40.2:8000/play/a04c
+
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR326NBATVFHD.png" group-title="📺DEPORTES📺" tvg-name="",NBA TV"
-http://latvonlive.com:33612/Lili/1234/262
+http://23.237.78.54/live-1000/263/playlist.m3u8?flo
