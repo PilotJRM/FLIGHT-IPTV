@@ -102,7 +102,7 @@ http://45.170.40.2:8000/play/a02z
 http://45.170.40.2:8000/play/a030
 
 #EXTINF:-1 tvg-logo="http://xtremesportsplus.myq-see.com:8080/images/a1ec0c5f86cd6d78b06290cca0a23bb9.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",HBO MUNDI
-http://latvonlive.com:33612/Lili/1234/594
+http://200.54.19.131:8500/play/a0k4/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://51.15.181.146/iconos/hopluse.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",HBO Plus |HD
 http://45.170.40.2:8000/play/a02y
@@ -126,7 +126,7 @@ http://190.13.162.66:8081/play/a01v
 http://45.170.40.2:8000/play/a03r
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k215Dcc/STAR-Comedy.png" group-title="📺SERIES & CINEMA📺" tvg-name="",ST☆R Comedy|HD
-http://xtremesportsplus.myq-see.com:8080/peppe/peppe/738
+http://200.54.19.131:8500/play/a0e9/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VgpxYK8/STAR-Fun.png" group-title="📺SERIES & CINEMA📺" tvg-name="",ST☆R Fun |HD
 http://45.170.40.2:8000/play/a01p
@@ -166,6 +166,9 @@ http://190.13.162.66:8081/play/a017
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/animal.jpg" group-title="📺CULTURA📺" tvg-name="",ANIMAL PLANET |HD
 http://190.13.162.66:8081/play/a016
+
+#EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/animal.jpg" group-title="📺CULTURA📺" tvg-name="",ANIMAL PLANET |HD
+http://200.54.19.131:8500/play/a0j4/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/discovery.jpg" group-title="📺CULTURA📺" tvg-name="",DISCOVERY CHANNEL |HD
 http://190.13.162.66:8081/play/a015
@@ -226,11 +229,17 @@ http://localdblagent.club:8080/October25/October25/12148
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/trutvs.jpg" group-title="📺CULTURA📺" tvg-name="",TruTV HD
 http://45.170.40.2:8000/play/a037
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Venevision_logo.png/revision/latest?cb=20151009182252&path-prefix=es" group-title="📺ENTRE📺" tvg-name="",Venevision
+http://200.54.19.131:8500/play/a0gw/index.m3u8
+
+#EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="📺ENTRE📺" tvg-name="",Televen
+http://200.54.19.131:8500/play/a0iv/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/antena3.jpg" group-title="📺ENTRE📺" tvg-name="",ANTENA 3 SERIES
 http://localdblagent.club:8080/October25/October25/12038
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtCaB4-xuepDYF5gaK2-17iyYx6xNHNAvzmQ&usqp=CAU" group-title="📺ENTRE📺" tvg-name="",CANAL 13 CHILE
-http://190.13.162.66:8081/play/a00e
+http://200.54.19.131:8500/play/a0d6/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/comedy.png" group-title="📺ENTRE📺" tvg-name="",COMEDY CENTRAL HD
 http://localdblagent.club:8080/October25/October25/12068
@@ -282,12 +291,6 @@ http://45.170.40.2:8000/play/a00n
 
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_10/large.musictop2020.png.99d94848bab42ba81b3432050a46eb0f.png" group-title="📺Music📺" tvg-name="",Music Top | HD
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/-L33TeJVLMjCtiuO9U3-wKZonE12OzbkGXVZp6KQuZTmI_CbdTHoE40HfqSff7XePCl2" group-title="📺Music📺" tvg-name="",Music Latinos UP
-https://5b38ce71f1f00.streamlock.net/8080/8080/.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Latinos_Up_TV_entretenimiento_online_en_New_York_y_el_mundo.png" group-title="📺Music📺" tvg-name="",Latinos UP
-https://5b38ce71f1f00.streamlock.net/8080/8080/.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png" group-title="📺Music📺" tvg-name="",California Music Channel"
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
