@@ -1,0 +1,134 @@
+#EXTINF:-1,Bob Esponja
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=700&deviceId=5f1acdaa8ba90f0007d5e760&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=41.1167&deviceLon=1.2500&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false
+#EXTINF:-1,Discovery Kids
+http://190.13.162.66:8081/play/a008
+#EXTINF:-1,Disney JR SD
+http://190.13.162.66:8081/play/a01l
+#EXTINF:-1,Disney |HD
+http://190.13.162.66:8081/play/a018
+#EXTINF:-1,Disney |HD
+http://saypopular.com:25461/5rob5/050505/52756
+#EXTINF:-1,Disney XD
+http://saypopular.com:25461/5rob5/050505/52758
+#EXTINF:-1,Nat Geo Kids
+http://190.13.162.66:8081/play/a01y
+#EXTINF:-1,Nick JR
+http://190.13.162.66:8081/play/a00p
+#EXTINF:-1,Nickelodeon
+http://saypopular.com:25461/5rob5/050505/52811
+#EXTINF:-1,AXN |HD
+http://190.13.162.66:8081/play/a00w
+#EXTINF:-1,CINEMAX |HD
+http://190.13.162.66:8081/play/a00u
+#EXTINF:-1,DHE HD
+http://ipeteve.com/php/SR_REGIO220221/tv3.php?c=1467_&f=.m3u8
+#EXTINF:-1,De Película HD
+http://saypopular.com:25461/5rob5/050505/52743
+#EXTINF:-1,FX |HD
+http://190.13.162.66:8081/play/a00y
+#EXTINF:-1,FX MOVIES |HD
+http://190.13.162.66:8081/play/a00f
+#EXTINF:-1,GOLDEN PLUS
+http://saypopular.com:25461/5rob5/050505/52788
+#EXTINF:-1,Golden Premiere
+http://saypopular.com:25461/5rob5/050505/52789
+#EXTINF:-1,Golden EDGE
+http://saypopular.com:25461/5rob5/050505/52787
+#EXTINF:-1,HBO |HD
+http://190.13.162.66:8081/play/a00t
+#EXTINF:-1,HBO2 |HD
+http://saypopular.com:25461/5rob5/050505/52792
+#EXTINF:-1,HBO Family |HD
+http://saypopular.com:25461/5rob5/050505/52793
+#EXTINF:-1,HBO Plus |HD
+http://saypopular.com:25461/5rob5/050505/52794
+#EXTINF:-1,SONY SD
+http://190.13.162.66:8081/play/a00v
+#EXTINF:-1,ST☆R Channel |HD
+http://saypopular.com:25461/5rob5/050505/52771
+#EXTINF:-1,ST☆R Life |HD
+http://190.13.162.66:8081/play/a01v
+#EXTINF:-1,ST☆R Action |HD
+http://saypopular.com:25461/5rob5/050505/52772
+#EXTINF:-1,ST☆R Fun |HD
+http://saypopular.com:25461/5rob5/050505/52775
+#EXTINF:-1,ST☆R Hits |HD
+http://190.13.162.66:8081/play/a00i
+#EXTINF:-1,ST☆R Series |HD
+http://saypopular.com:25461/5rob5/050505/52778
+#EXTINF:-1,ST☆R Cinema |HD
+http://saypopular.com:25461/5rob5/050505/52773
+#EXTINF:-1,ST☆R Classics |HD
+http://saypopular.com:25461/5rob5/050505/52774
+#EXTINF:-1,SPACE HD
+http://190.13.162.66:8081/play/a00x
+#EXTINF:-1,TNT |HD
+http://190.13.162.66:8081/play/a020
+#EXTINF:-1,TNT SERIES
+http://saypopular.com:25461/5rob5/050505/52831
+#EXTINF:-1,UNIVERSAL
+http://190.13.162.66:8081/play/a01q
+#EXTINF:-1,UNIVERSAL
+http://saypopular.com:25461/5rob5/050505/52849
+#EXTINF:-1,WARNER HD
+http://190.13.162.66:8081/play/a017
+#EXTINF:-1,ANIMAL PLANET |HD
+http://190.13.162.66:8081/play/a016
+#EXTINF:-1,DISCOVERY CHANNEL |HD
+http://190.13.162.66:8081/play/a015
+#EXTINF:-1,DISCOVERY CHANNEL |HD
+http://saypopular.com:25461/5rob5/050505/52744
+#EXTINF:-1,Discovery ID |HD
+http://190.13.162.66:8081/play/a023
+#EXTINF:-1,DISCOVERY H&H SD
+http://saypopular.com:25461/5rob5/050505/52748
+#EXTINF:-1,DISCOVERY THEATHER |HD
+http://saypopular.com:25461/5rob5/050505/52752
+#EXTINF:-1,Discovery World |HD
+http://saypopular.com:25461/5rob5/050505/52755
+#EXTINF:-1,DISCOVERY TURBO |HD
+http://saypopular.com:25461/5rob5/050505/52754
+#EXTINF:-1,HISTORY |HD
+http://saypopular.com:25461/5rob5/050505/52797
+#EXTINF:-1,H2 SD
+http://saypopular.com:25461/5rob5/050505/52796
+#EXTINF:-1,NAT GEO |HD
+http://190.13.162.66:8081/play/a01n
+#EXTINF:-1,NAT GEO |HD
+http://saypopular.com:25461/5rob5/050505/52810
+#EXTINF:-1,TruTV HD
+http://saypopular.com:25461/5rob5/050505/52833
+#EXTINF:-1,ANTENA 3
+http://saypopular.com:25461/5rob5/050505/52720
+#EXTINF:-1,COMEDY CENTRAL HD
+http://saypopular.com:25461/5rob5/050505/52742
+#EXTINF:-1,DISTRITO COMEDIA TP MX
+http://saypopular.com:25461/5rob5/050505/52759
+#EXTINF:-1,E!
+http://190.13.162.66:8081/play/a018
+#EXTINF:-1,ESTRELLA TV
+http://saypopular.com:25461/5rob5/050505/52768
+#EXTINF:-1,FOOD NETWORK TP MX
+http://ipeteve.com/php/SR_REGIO220221/tv3.php?c=86_&f=.m3u8
+#EXTINF:-1,GarageTV
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+#EXTINF:-1,LA 1 |HD
+https://rtvelivestream.akamaized.net/la1_dvr_4000.m3u8
+#EXTINF:-1,MTV HD
+http://190.13.162.66:8081/play/a01t
+#EXTINF:-1,UNICABLE TP MX
+http://saypopular.com:25461/5rob5/050505/52847
+#EXTINF:-1,VH1 |HD
+http://saypopular.com:25461/5rob5/050505/52850
+#EXTINF:-1,Music Top | HD
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1,California Music Channel"
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+#EXTINF:-1,RetroTV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1,PHTV (RD)
+https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
+#EXTINF:-1,Hits360 (RD
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/chunks.m3u8
+#EXTINF:-1,NBA TV"
+http://saypopular.com:25461/5rob5/050505/52764
