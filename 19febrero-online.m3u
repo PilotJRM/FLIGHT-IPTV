@@ -1,31 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.megaidea.net/wp-content/uploads/2018/06/simpson-2-670x1024.png" group-title="📺24horas☆📺" tvg-name="",Los Simpson
-http://xtremesportsplus.myq-see.com:8080/peppe/peppe/2432
-
-#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/488-4885564_duck-dodgers-png-daffy-duck-as-duck-dodgers.png" group-title="📺24horas☆📺" tvg-name="",Los Picapiedras
-http://xtremesportsplus.myq-see.com:8080/peppe/peppe/14613
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSt043HQI3m8-fUWbJF1b8Izy_m9vTWHEjluYDy3mn8buIULCvo" group-title="📺24horas☆📺" tvg-name="",El Chavo del 8
-http://xtremesportsplus.myq-see.com:8080/peppe/peppe/2434
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/1200px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="📺24horas☆📺" tvg-name="",El Chapulin Colorado
-http://xtremesportsplus.myq-see.com:8080/peppe/peppe/17548
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Bob_esponja_logotipo.png" group-title="📺24horas☆📺" tvg-name="",Bob Esponja
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=700&deviceId=5f1acdaa8ba90f0007d5e760&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=41.1167&deviceLon=1.2500&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR085BABYTV.png" group-title="📺NIÑ@S📺" tvg-name="",Baby TV
-http://200.54.19.131:8500/play/a0kf
-
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US789BOOMERANGHD.png" group-title="📺NIÑ@S📺" tvg-name="",Boomerang
-http://200.54.19.131:8500/play/a0h9
-
-#EXTINF:-1 tvg-logo="https://cachipum.tv/wp-content/uploads/2020/04/logo.png" group-title="📺NIÑ@S📺" tvg-name="",Cachipum tv | HD
-http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w1586053473.m3u8
+http://saypopular.com:25461/oscar/20gar/52732
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="📺NIÑ@S📺" tvg-name="",Cartoon Network |HD
-http://200.54.19.131:8500/play/a0m1
+http://saypopular.com:25461/oscar/20gar/52737
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/nap3dLw95-c/hqdefault.jpg" group-title="📺NIÑ@S📺" tvg-name="",Discovery Kids 
 http://190.13.162.66:8081/play/a008
@@ -37,10 +16,10 @@ http://190.13.162.66:8081/play/a01l
 http://190.13.162.66:8081/play/a018
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/96/ee/5f/96ee5f700da7a177c40262231f650467.png" group-title="📺NIÑ@S📺" tvg-name="",Disney |HD
-http://45.170.40.2:8000/play/a01s
+http://saypopular.com:25461/5rob5/050505/52756
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR047DisneyXDFR.png" group-title="📺NIÑ@S📺" tvg-name="",Disney XD 
-http://45.170.40.2:8000/play/a01s
+http://saypopular.com:25461/5rob5/050505/52758
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR210NatGeoKidsFHD.png" group-title="📺NIÑ@S📺" tvg-name="",Nat Geo Kids 
 http://190.13.162.66:8081/play/a01y
@@ -49,33 +28,27 @@ http://190.13.162.66:8081/play/a01y
 http://190.13.162.66:8081/play/a00p
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US141Nickelodeon.png" group-title="📺NIÑ@S📺" tvg-name="",Nickelodeon 
-http://45.170.40.2:8000/play/a00j
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/8/8e/TeenNick_logo_2009.png/revision/latest?cb=20190106192043" group-title="📺NIÑ@S📺" tvg-name="",TEEN NICK |HD
-http://localdblagent.club:8080/October25/October25/1640
+http://saypopular.com:25461/5rob5/050505/52811
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/axn.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",AXN |HD
 http://190.13.162.66:8081/play/a00w
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/AE.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",A&E HD
-http://200.54.19.131:8500/play/a0kt/index.m3u8
+http://saypopular.com:25461/oscar/20gar/52714
 
 #EXTINF:-1 tvg-logo="https://television.mxdwn.com/wp-content/uploads/2019/04/amc-logo.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",AMC HD
-http://45.170.40.2:8000/play/a01h
+http://saypopular.com:25461/oscar/20gar/52718
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/cinemax.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",CINEMAX |HD
 http://190.13.162.66:8081/play/a00u
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/cinemax.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",CINEMAX |HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/769
+http://saypopular.com:25461/oscar/20gar/52740
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA265DHE.png" group-title="📺SERIES & CINEMA📺" tvg-name="",DHE HD
 http://ipeteve.com/php/SR_REGIO220221/tv3.php?c=1467_&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ocM_Hgp_im0/maxresdefault.jpg" group-title="📺24horas☆📺" tvg-name="",De Película HD
-http://localdblagent.club:8080/October25/October25/12070
-
-#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/eurochannel_0.jpg?1527331141" group-title="📺SERIES & CINEMA📺" tvg-name="",EURO Channel SD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/772
+http://saypopular.com:25461/5rob5/050505/52743
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/fx.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",FX |HD
 http://190.13.162.66:8081/play/a00y
@@ -84,31 +57,28 @@ http://190.13.162.66:8081/play/a00y
 http://190.13.162.66:8081/play/a00f
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/340?cb=20201201140709&path-prefix=es" group-title="📺SERIES & CINEMA📺" tvg-name="",GOLDEN PLUS
-http://localdblagent.club:8080/October25/October25/12345
+http://saypopular.com:25461/5rob5/050505/52788
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/golden.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",Golden Premiere
-http://localdblagent.club:8080/October25/October25/12345
+http://saypopular.com:25461/5rob5/050505/52789
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/golden.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",Golden EDGE
-http://localdblagent.club:8080/October25/October25/12103
+http://saypopular.com:25461/5rob5/050505/52787
 
 #EXTINF:-1 tvg-logo="http://51.15.181.146/iconos/hbo.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",HBO |HD
 http://190.13.162.66:8081/play/a00t
 
 #EXTINF:-1 tvg-logo="http://51.15.181.146/iconos/hbo2.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",HBO2 |HD
-http://45.170.40.2:8000/play/a02z
+http://saypopular.com:25461/5rob5/050505/52792
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/hbo-fami.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",HBO Family |HD
-http://45.170.40.2:8000/play/a030
+http://saypopular.com:25461/5rob5/050505/52793
 
 #EXTINF:-1 tvg-logo="http://xtremesportsplus.myq-see.com:8080/images/a1ec0c5f86cd6d78b06290cca0a23bb9.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",HBO MUNDI
 http://200.54.19.131:8500/play/a0k4/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://51.15.181.146/iconos/hopluse.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",HBO Plus |HD
-http://45.170.40.2:8000/play/a02y
-
-#EXTINF:-1 tvg-logo="http://51.15.181.146/iconos/HBOXTREME.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",HBO Xtreme |HD
-http://localdblagent.club:8080/October25/October25/13444
+http://saypopular.com:25461/5rob5/050505/52794
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/paramont.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",Paramount |HD
 http://localdblagent.club:8080/October25/October25/12133
@@ -117,49 +87,45 @@ http://localdblagent.club:8080/October25/October25/12133
 http://190.13.162.66:8081/play/a00v
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rtgxsqC/STAR-Channel.png" group-title="📺SERIES & CINEMA📺" tvg-name="",ST☆R Channel |HD
-http://45.170.40.2:8000/play/a02u
+http://saypopular.com:25461/5rob5/050505/52771
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dBRV3Pk/STAR-Life.png" group-title="📺SERIES & CINEMA📺" tvg-name="",ST☆R Life |HD
 http://190.13.162.66:8081/play/a01v
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qsMcD5L/STAR-Action.png" group-title="📺SERIES & CINEMA📺" tvg-name="",ST☆R Action |HD
-http://45.170.40.2:8000/play/a03r
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k215Dcc/STAR-Comedy.png" group-title="📺SERIES & CINEMA📺" tvg-name="",ST☆R Comedy|HD
-http://200.54.19.131:8500/play/a0e9/index.m3u8
+http://saypopular.com:25461/5rob5/050505/52772
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VgpxYK8/STAR-Fun.png" group-title="📺SERIES & CINEMA📺" tvg-name="",ST☆R Fun |HD
-http://45.170.40.2:8000/play/a01p
+http://saypopular.com:25461/5rob5/050505/52775
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PQprMbb/STAR-Hits.png" group-title="📺SERIES & CINEMA📺" tvg-name="",ST☆R Hits |HD
 http://190.13.162.66:8081/play/a00i
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GV8XBdf/STAR-Series.png" group-title="📺SERIES & CINEMA📺" tvg-name="",ST☆R Series |HD
-http://45.170.40.2:8000/play/a031
+http://saypopular.com:25461/5rob5/050505/52778
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yYfM0Bw/STAR-Cinema.png" group-title="📺SERIES & CINEMA📺" tvg-name="",ST☆R Cinema |HD
-http://localdblagent.club:8080/October25/October25/12341
+http://saypopular.com:25461/5rob5/050505/52773
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WPK3CwN/STAR-Classics.png" group-title="📺SERIES & CINEMA📺" tvg-name="",ST☆R Classics |HD
-http://45.170.40.2:8000/play/a01q
+http://saypopular.com:25461/5rob5/050505/52774
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/sapcehd.png" group-title="📺SERIES & CINEMA📺" tvg-name="",SPACE HD
 http://190.13.162.66:8081/play/a00x
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR090StudioUniversal.png" group-title="📺SERIES & CINEMA📺" tvg-name="",STUDIO UNIVERSAL |HD
-http://45.170.40.2:8000/play/a01k
-
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/SYFY.png" group-title="📺SERIES & CINEMA📺" tvg-name="",SYFY 
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/652
+http://saypopular.com:25461/oscar/20gar/52823
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/tnthd.png" group-title="📺SERIES & CINEMA📺" tvg-name="",TNT |HD
 http://190.13.162.66:8081/play/a020
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/tntseries.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",TNT SERIES
-http://45.170.40.2:8000/play/a057
+http://saypopular.com:25461/5rob5/050505/52831
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/universal.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",UNIVERSAL 
 http://190.13.162.66:8081/play/a01q
+#EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/universal.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",UNIVERSAL
+http://saypopular.com:25461/5rob5/050505/52849
 
 #EXTINF:-1 tvg-logo="http://xtremesportsplus.myq-see.com:8080/images/72a6af9fbf8ef425faf15f9cb5abdc88.png" group-title="📺SERIES & CINEMA📺" tvg-name="",WARNER HD
 http://190.13.162.66:8081/play/a017
@@ -168,96 +134,76 @@ http://190.13.162.66:8081/play/a017
 http://190.13.162.66:8081/play/a016
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/animal.jpg" group-title="📺CULTURA📺" tvg-name="",ANIMAL PLANET |HD
-http://200.54.19.131:8500/play/a0j4/index.m3u8
+http://saypopular.com:25461/oscar/20gar/52719
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/discovery.jpg" group-title="📺CULTURA📺" tvg-name="",DISCOVERY CHANNEL |HD
 http://190.13.162.66:8081/play/a015
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/discovery.jpg" group-title="📺CULTURA📺" tvg-name="",DISCOVERY CHANNEL |HD
-http://45.170.40.2:8000/play/a04l
+http://saypopular.com:25461/5rob5/050505/52744
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/id.png" group-title="📺CULTURA📺" tvg-name="",Discovery ID |HD
 http://190.13.162.66:8081/play/a023
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/discoveryhh.jpg" group-title="📺CULTURA📺" tvg-name="",DISCOVERY H&H SD
-http://45.170.40.2:8000/play/a038
-#EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/discoveryhh.jpg" group-title="📺CULTURA📺" tvg-name="",DISCOVERY H&H SD
-http://45.170.40.2:8000/play/a04m
-
-#EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/sci.png" group-title="📺CULTURA📺" tvg-name="",DISCOVERY SCIENCE |HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/770
+http://saypopular.com:25461/5rob5/050505/52748
 
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/252-2529722_discovery-hd-theater-discovery-channel.png" group-title="📺CULTURA📺" tvg-name="",DISCOVERY THEATHER |HD
-http://45.170.40.2:8000/play/a02h
+http://saypopular.com:25461/5rob5/050505/52752
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/DiscoveryWorld.jpg" group-title="📺CULTURA📺" tvg-name="",Discovery World |HD
-http://45.170.40.2:8000/play/a02k
+http://saypopular.com:25461/5rob5/050505/52755
 
 #EXTINF:-1 tvg-logo="http://xtremesportsplus.myq-see.com:8080/images/c5e6bf72241158f09aa30e9c966269a3.png" group-title="📺CULTURA📺" tvg-name="",DISCOVERY TURBO |HD
-http://45.170.40.2:8000/play/a01f
+http://saypopular.com:25461/5rob5/050505/52754
 
 #EXTINF:-1 tvg-logo="https://freepikpsd.com/wp-content/uploads/2019/10/discovery-max-png-5-Transparent-Images.png" group-title="📺CULTURA📺" tvg-name="",Discovery Max
 http://91.126.141.12:1935/live/discoverymax/chunklist_w1033105812.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Discovery_Civilization_1998.png/revision/latest?cb=20091112185125" group-title="📺CULTURA📺" tvg-name="",Discovery Civilization
-http://45.170.40.2:8000/play/a022
+http://saypopular.com:25461/oscar/20gar/52745
 
 #EXTINF:-1 tvg-logo="http://xtremesportsplus.myq-see.com:8080/images/3cd15f8f2940aff879df34df4e5c2cd1.jpg" group-title="📺CULTURA📺" tvg-name="",HISTORY |HD
-http://45.170.40.2:8000/play/a04f
+http://saypopular.com:25461/5rob5/050505/52797
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/h2.jpg" group-title="📺CULTURA📺" tvg-name="",H2 SD
-http://45.170.40.2:8000/play/a021
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/HGTV_2010.svg" group-title="📺CULTURA📺" tvg-name="",HGTV HD
-http://45.170.40.2:8000/play/a022
+http://saypopular.com:25461/5rob5/050505/52796
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/natgeo.jpg" group-title="📺CULTURA📺" tvg-name="",NAT GEO |HD
 http://190.13.162.66:8081/play/a01n
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/natgeo.jpg" group-title="📺CULTURA📺" tvg-name="",NAT GEO |HD
-http://45.170.40.2:8000/play/a056
+http://saypopular.com:25461/5rob5/050505/52810
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/natgeowild.jpg" group-title="📺CULTURA📺" tvg-name="",NATGEO WILD SD
-http://45.170.40.2:8000/play/a020
-
-#EXTINF:-1 tvg-logo="https://streamingtvguides.com/img/so/NGMUNDO.png" group-title="📺CULTURA📺" tvg-name="",NATGEO MUNDO  |HD
-http://localdblagent.club:8080/October25/October25/13743
+http://saypopular.com:25461/oscar/20gar/52809
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/tlc-discovery.jpg" group-title="📺CULTURA📺" tvg-name="",TLC 
-http://localdblagent.club:8080/October25/October25/12148
+http://saypopular.com:25461/oscar/20gar/52753
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/trutvs.jpg" group-title="📺CULTURA📺" tvg-name="",TruTV HD
-http://45.170.40.2:8000/play/a037
+http://saypopular.com:25461/5rob5/050505/52833
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Venevision_logo.png/revision/latest?cb=20151009182252&path-prefix=es" group-title="📺ENTRE📺" tvg-name="",Venevision
-http://200.54.19.131:8500/play/a0gw/index.m3u8
+http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="📺ENTRE📺" tvg-name="",Televen
-http://200.54.19.131:8500/play/a0iv/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/antena3.jpg" group-title="📺ENTRE📺" tvg-name="",ANTENA 3 SERIES
-http://localdblagent.club:8080/October25/October25/12038
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtCaB4-xuepDYF5gaK2-17iyYx6xNHNAvzmQ&usqp=CAU" group-title="📺ENTRE📺" tvg-name="",CANAL 13 CHILE
-http://200.54.19.131:8500/play/a0d6/index.m3u8
+#EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/antena3.jpg" group-title="📺ENTRE📺" tvg-name="",ANTENA 3 
+http://saypopular.com:25461/5rob5/050505/52720
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/comedy.png" group-title="📺ENTRE📺" tvg-name="",COMEDY CENTRAL HD
-http://localdblagent.club:8080/October25/October25/12068
+http://saypopular.com:25461/5rob5/050505/52742
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/distrito-comedy.jpg" group-title="📺ENTRE📺" tvg-name="",DISTRITO COMEDIA TP MX
-http://localdblagent.club:8080/October25/October25/12032
+http://saypopular.com:25461/5rob5/050505/52759
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/E.jpg" group-title="📺ENTRE📺" tvg-name="",E! 
 http://190.13.162.66:8081/play/a018
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA044ELGourmet.png" group-title="📺ENTRE📺" tvg-name="",EL GOURMET HD
-http://45.170.40.2:8000/play/a036
+http://saypopular.com:25461/oscar/20gar/52762
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/estrellatv.png" group-title="📺ENTRE📺" tvg-name="",ESTRELLA TV
-http://localdblagent.club:8080/October25/October25/13777
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="📺ENTRE📺" tvg-name="",FILMS & ARTS HD
-http://45.170.40.2:8000/play/a024
+http://saypopular.com:25461/5rob5/050505/52768
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/food.png" group-title="📺ENTRE📺" tvg-name="",FOOD NETWORK TP MX
 http://ipeteve.com/php/SR_REGIO220221/tv3.php?c=86_&f=.m3u8
@@ -266,7 +212,7 @@ http://ipeteve.com/php/SR_REGIO220221/tv3.php?c=86_&f=.m3u8
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/galavision_east.png" group-title="📺ENTRE📺" tvg-name="",GALAVISION
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/556
+http://saypopular.com:25461/oscar/20gar/52784
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/holatv.jpg" group-title="📺ENTRE📺" tvg-name="",HOLA !TV SD
 http://localdblagent.club:8080/October25/October25/12109
@@ -278,16 +224,13 @@ https://rtvelivestream.akamaized.net/la1_dvr_4000.m3u8
 http://190.13.162.66:8081/play/a01t
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/utelenovela.jpg" group-title="📺ENTRE📺" tvg-name="",Univision TL Novelas
-http://localdblagent.club:8080/October25/October25/12158
+http://saypopular.com:25461/oscar/20gar/35394
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/Unicable.jpg" group-title="📺ENTRE📺" tvg-name="",UNICABLE TP MX
-http://localdblagent.club:8080/October25/October25/13815
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/890px-Htv_logo.svg.png" group-title="📺Music📺" tvg-name="",HTV | HD
-http://45.170.40.2:8000/play/a027
+http://saypopular.com:25461/5rob5/050505/52847
 
 #EXTINF:-1 tvg-logo="https://optic-communications.com/wp-content/uploads/2017/05/vh1.png" group-title="📺Music📺" tvg-name="",VH1 |HD
-http://45.170.40.2:8000/play/a00n
+http://saypopular.com:25461/5rob5/050505/52850
 
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_10/large.musictop2020.png.99d94848bab42ba81b3432050a46eb0f.png" group-title="📺Music📺" tvg-name="",Music Top | HD
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
@@ -305,7 +248,7 @@ https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.discgolf.ultiworld.com/wp-content/uploads/2020/10/ESPN2.png" group-title="📺DEPORTES📺" tvg-name="",ESPN2"
-http://45.170.40.2:8000/play/a04c
+http://saypopular.com:25461/oscar/20gar/52764
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR326NBATVFHD.png" group-title="📺DEPORTES📺" tvg-name="",NBA TV"
-http://23.237.78.54/live-1000/263/playlist.m3u8?flo
+http://saypopular.com:25461/5rob5/050505/52764
