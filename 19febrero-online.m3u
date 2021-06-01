@@ -39,14 +39,17 @@ http://190.13.162.66:8081/play/a00p
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US141Nickelodeon.png" group-title="📺NIÑ@S📺" tvg-name="",Nickelodeon 
 https://d2q5ek69zn.azcdn130.net:8443/hls/hg3b4k9kc.m3u8?s=Yb_G_2tby4E_NdsaTYvLlQ&e=1622602119
 
-█►SERIES & CINEMA◄█ 
-
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/axn.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",AXN |HD
 http://190.13.162.66:8081/play/a00w
 
+#EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/AE.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",A&E HD
+http://heinentv.ddns.net:25461/wayne/wayne/5241
+
+#EXTINF:-1 tvg-logo="https://television.mxdwn.com/wp-content/uploads/2019/04/amc-logo.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",AMC HD
+http://heinentv.ddns.net:25461/wayne/wayne/5410
+
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/cinemax.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",CINEMAX |HD
 http://190.13.162.66:8081/play/a00u
-
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/cinemax.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",CINEMAX |HD
 https://usher.ttvnw.net/api/channel/hls/cc_m22x.m3u8?allow_source=true&fast_bread=true&p=3640176&play_session_id=f75f7ff13ff889136efbb72676d4d495&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=590529443098fac1b23909d69ca8387bb917eb00&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22cc_m22x%22%2C%22channel_id%22%3A688704175%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%222360524a141ede85%22%2C%22expires%22%3A1622580739%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22179.56.21.166%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.4.0
 
@@ -88,9 +91,6 @@ https://d2q5ek69zn.azcdn130.net:8443/hls/wgqlyzrp1w9x.m3u8?s=hgBbAtp8y6rNwmPGNBX
 #EXTINF:-1 tvg-logo="http://51.15.181.146/iconos/HBOXTREME.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",HBO Xtreme |HD
 https://d2q5ek69zn.azcdn130.net:8443/hls/xd7rd3.m3u8?s=92B2234-ozEtrF-f_nJWLA&e=1622602662
 
-#EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/paramont.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",Paramount |HD
-https://chinolistas.000webhostapp.com/canal/abc.php/a06k/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/sony.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",SONY SD
 http://190.13.162.66:8081/play/a00v
 
@@ -103,12 +103,6 @@ http://190.13.162.66:8081/play/a01v
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qsMcD5L/STAR-Action.png" group-title="📺SERIES & CINEMA📺" tvg-name="",ST☆R Action |HD
 https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CucEjdPsxC4S-t0oHDxD2ZKJ60cLrgLi6bkgfCDkkjiZn_UYErgF-4HeKJLG195WlC8y-NVRIscPOm-O5IZ3hIQzDssH3shpKkYyOYE11UoY9_x0aZs9jU_xgLrMlxQxu1RvUfWu6Bj38Oh1XBCG8pr_YI6lpzfa0GHAngmGAZDB0pndbwO9cx70W1VgKiZOZ--CgdB6WwLNXWGbPbTF3wqBB3IhjK0s_6HQQQknApQN9arJOav77nODdyotH2029hIwl9-HQhf2aYUvUjwBHDSXZFENGY9K-L8LaKaSwP7faZJnz2hDk9thT2Kry0yk6TaIgcMNEbzHfjcsRpwq0KZNEBSdAGDMDwcsE_brRO9h05_TrZke3mCye1t3-1OJUyneLwG-jh0UHLcYw3nSaERkk6ODQqwPOt9x0SopTqqpiRNjeacXf3Wo89xbSM2a3y8e5BBTY3j8e3T2G1dgPonprJuVRBOesBikZvgpoJBYBuK-VKkRGQyQjZHJFzSxw_KMxFkNIlZ_2wnvI5YDrvh0CY6ozYHYmOuUhiKHZiKyw0hjqqqAkaCRLQwtc0WUPYw7mgZABWNwEn7NAyT-1N-lLZG8kaFRr-OZwQvbNdoxGGsIC4SX292GOd8qH426W3NSVi_MpHzuRLjJRe4kWsW_tu2pwhv5d_K-kG1mj2reg3WbjS1WcYOfVHfiww0J-NE-au4UQb31bEaUPN3h6pax1qyYW_B7v74c85kLmsNVLJ_fGADdsNtDnkk0ggTFlsTZDj6fH9ok2-SbyaPoO85qzmhfDz40eqCKHDqxW3XTgWLaiisw-3UGEhDnWYUyUpepRM_cOo4l7ZWyGgykv0u3v6S0dhP49KU.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k215Dcc/STAR-Comedy.png" group-title="📺SERIES & CINEMA📺" tvg-name="",ST☆R Comedy|HD
-https://chinolistas.000webhostapp.com/canal/abc.php/a06s/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VgpxYK8/STAR-Fun.png" group-title="📺SERIES & CINEMA📺" tvg-name="",ST☆R Fun |HD
-https://chinolistas.000webhostapp.com/canal/abc.php/a06c/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PQprMbb/STAR-Hits.png" group-title="📺SERIES & CINEMA📺" tvg-name="",ST☆R Hits |HD
 http://190.13.162.66:8081/play/a00i
 
@@ -118,14 +112,14 @@ https://d2q5ek69zn.azcdn130.net:8443/hls/n0bhzbsem47v.m3u8?s=OGW-6C-sij7jnoS7VnB
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yYfM0Bw/STAR-Cinema.png" group-title="📺SERIES & CINEMA📺" tvg-name="",ST☆R Cinema |HD
 http://saypopular.com:25461/5rob5/050505/52773
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WPK3CwN/STAR-Classics.png" group-title="📺SERIES & CINEMA📺" tvg-name="",ST☆R Classics |HD
-https://chinolistas.000webhostapp.com/canal/abc.php/a06d/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/sapcehd.png" group-title="📺SERIES & CINEMA📺" tvg-name="",SPACE HD
 http://190.13.162.66:8081/play/a00x
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR090StudioUniversal.png" group-title="📺SERIES & CINEMA📺" tvg-name="",STUDIO UNIVERSAL |HD
 https://d2q5ek69zn.azcdn130.net:8443/hls/l4gu8vz2x.m3u8?s=YoIZRtiOeN7Y4xnIH57Shg&e=1622602708
+
+#EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/SYFY.png" group-title="📺SERIES & CINEMA📺" tvg-name="",SYFY 
+http://heinentv.ddns.net:25461/wayne/wayne/5251
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/tnthd.png" group-title="📺SERIES & CINEMA📺" tvg-name="",TNT |HD
 http://190.13.162.66:8081/play/a020
@@ -154,11 +148,13 @@ https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CusERG1Zp2bXDhXw8w2LtVvwD2v
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/id.png" group-title="📺CULTURA📺" tvg-name="",Discovery ID |HD
 http://190.13.162.66:8081/play/a023
 
-
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/discoveryhh.jpg" group-title="📺CULTURA📺" tvg-name="",DISCOVERY H&H SD
 http://saypopular.com:25461/5rob5/050505/52748
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/discoveryhh.jpg" group-title="📺CULTURA📺" tvg-name="",DISCOVERY H&H SD
 https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CusEtc7Msmiihpbayb752jkgRMRkL2HdL3LgLf2ZkF-VKEaTxnbyCLjdDUGuYb-n34qLHu3Wy7daH0Vaqf3FUWsALJnz40Rm7MKVkrAC8BTzhfX-z6OtFZKT6sLeGPgkZt18RXP6lRrwvcyZa00ulVQRSwe1nDcv3uatWNr5cx-KrmvUud_a7_yIuUSe3NqrgRy3SXYPe0Tou1y8HkCpm6opySqXNN1gNVE5DkxcHgCyjuW_UcuRCGxO9w7Cgj8Ah91Vza6sqJEJj9WxgPlr0jzMbj22LmF8NXKM5jKvsPm8csi3xv1yT-_UPyZzIj9KU6MBT6aRaXTe-BevWRn2hPYoe1GS8GJAGtL-pGqdXwK3x8bQ2TI8wOXKyFc-32_PlHtJuu1eJhOUvU6qxMOy62FMnMn-JJ5yUvEHEe9g4A7UBW4IQFMnaSRMrnDSzor1sAn32iqqIHYqc3b0ceyBSpSBvYdqO7oUzjUeRqzd4HkQqmp0VVVcyRZCEhfbUcNXmFBx1QinYMH3LgoecfxZQ1bK3aLTKV60uWrAcZCBZGOhugTT-wayKuuxJT3nPSbJq2QiPK8fqqKdyYMppEqPpK25dEMF2ycnUCTjQX5hQvmnPVzF-PHEOXvm3CdhzKRda3qfNhdXJY5ag_ZwN9l4DiWWeOpuSJr8nNrFUpR_u6r24zEVpAa2XNLt2sV2AxsePSxewz0g4S3LISFrDp-JwWTYoLwIAta36wskeJYdB28dowV2Qri4qWI4ZbWdvS3Ny0I1rgJ_auVUVBaoU3BaPlihtgXSivaMHiHQ5bBNCFunpHaANdPIOcvQxb73rBIQqcpiXKoqn_qf9Wvdkg4dCRoMbaOpeSLk620UO0bC.m3u8
+
+#EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/sci.png" group-title="📺CULTURA📺" tvg-name="",DISCOVERY SCIENCE |HD
+http://saypopular.com:25461/oscar/20gar/131791
 
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/252-2529722_discovery-hd-theater-discovery-channel.png" group-title="📺CULTURA📺" tvg-name="",DISCOVERY THEATHER |HD
 http://saypopular.com:25461/5rob5/050505/52752
@@ -172,8 +168,14 @@ http://saypopular.com:25461/5rob5/050505/52754
 #EXTINF:-1 tvg-logo="https://freepikpsd.com/wp-content/uploads/2019/10/discovery-max-png-5-Transparent-Images.png" group-title="📺CULTURA📺" tvg-name="",Discovery Max
 http://91.126.141.12:1935/live/discoverymax/chunklist_w1033105812.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Discovery_Civilization_1998.png/revision/latest?cb=20091112185125" group-title="📺CULTURA📺" tvg-name="",Discovery Civilization
+http://heinentv.ddns.net:25461/wayne/wayne/16562
+
 #EXTINF:-1 tvg-logo="http://xtremesportsplus.myq-see.com:8080/images/3cd15f8f2940aff879df34df4e5c2cd1.jpg" group-title="📺CULTURA📺" tvg-name="",HISTORY |HD
 http://saypopular.com:25461/5rob5/050505/52797
+
+#EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/h2.jpg" group-title="📺CULTURA📺" tvg-name="",H2 SD
+http://heinentv.ddns.net:25461/wayne/wayne/16571
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/natgeo.jpg" group-title="📺CULTURA📺" tvg-name="",NAT GEO |HD
 http://190.13.162.66:8081/play/a01n
@@ -202,9 +204,6 @@ http://saypopular.com:25461/5rob5/050505/52742
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/distrito-comedy.jpg" group-title="📺ENTRE📺" tvg-name="",DISTRITO COMEDIA
 https://chinolistas.000webhostapp.com/canal/abc.php/a066/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/E.jpg" group-title="📺ENTRE📺" tvg-name="",E! 
-https://chinolistas.000webhostapp.com/canal/abc.php/a05m/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA044ELGourmet.png" group-title="📺ENTRE📺" tvg-name="",EL GOURMET HD
 http://saypopular.com:25461/oscar/20gar/52762
 
@@ -229,13 +228,14 @@ https://rtvelivestream.akamaized.net/la1_dvr_4000.m3u8
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/junio/mtv.png" group-title="📺ENTRE📺" tvg-name="",MTV HD
 http://190.13.162.66:8081/play/a01t
 
+#EXTINF:-1 tvg-logo="http://topmv.myq-see.com/junio/mtv.png" group-title="📺ENTRE📺" tvg-name="",MTV HD
+https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CuIEb7CDE5s7oSr1mKlj7HMgftB6F091KO_--hnoV-OV9HF90Mm37Rq8F75TW0VnnhE1B4jRjjvmpEt_g7DPBGJgJDSoprxRSEk40XDsRdTYbW-oW6lVzF-weO7iVYHxeORoFGGN2Ucbq6sbTC4BAwU2FoqtW4-m-9a2VJRaC_dJCvg8jMM_2BxPnsvJkbcGTtfnDQwlLRpWCcnwYRSUkPLd1D9BkEiDTK6oKoBzrEzo4uH7O8HRGBPTSzXBq2duYdVHwuSYeUD_qdx5rPKXOnbtC03s6AECv8QZgkJkmIh8BbuOq9jh7AJxIrmVS9f3qCIwZIracw6pJAZRBrWCJPg3I6gGilJ88iVcu_7IzcoLLD6ylpoFetBBXXft-B592guAW4xFASctWLghwkSv7qyN4Fj_TMnsnU1V1EITCXsMoN5vp8J1ma0L1c9LFoKFSa8RVkj8fQNcIiJar-YkWbWTptYp-PHDRdB_ghsp4HbNKlIoHft4tvM0N0lFQCrs7mwj1qz1YvBVJ2gVIvpYJFiphTPcMCac4A1PGMJZ320nYxMQvJ0bV5yZ0xqiaNHe-0oGZqjJcP-wxtChy5MK9Fms-QYR-7DYtNyvuN0WxPtGyrpZCcRHRsnMgDLgXOUfShql1E0vlkR82xZbNvVp-2RLAl6sWZmsYE7y4ZoXhGD3sCKXosnVMnbRynv034l20tmXW1NTBxG0JDjMfO_QpnYNzZlmd77yUR6uEPQoEC8YctIPP9HHfd45gBp5OIF7nv67cd7Oourg3OMlEqUwh0TTtZLqb_GLFvxVU5xTFWytRdJJohIQCnkpHqxbVPBlyLM9F-ixHRoMQGTFqT6wi2NldIR1.m3u8
+
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/utelenovela.jpg" group-title="📺ENTRE📺" tvg-name="",Univision TL Novelas
 http://saypopular.com:25461/oscar/20gar/35394
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/Unicable.jpg" group-title="📺ENTRE📺" tvg-name="",UNICABLE TP MX
 http://saypopular.com:25461/5rob5/050505/52847
-
-█►MUSICAS◄█
 
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_10/large.musictop2020.png.99d94848bab42ba81b3432050a46eb0f.png" group-title="📺Music📺" tvg-name="",Music Top | HD
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
@@ -250,7 +250,8 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-GNoA1fHtLGY/XsC-sFOKBZI/AAAAAAAAviM/uO7BSvpoCBU_At8yMHF5ElYD7lirNYfzgCLcBGAsYHQ/s200/Hits360.png" group-title="📺Music📺" tvg-name="",Hits360 (RD
-http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/chunks.m3u
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://cdn.discgolf.ultiworld.com/wp-content/uploads/2020/10/ESPN2.png" group-title="📺DEPORTES📺" tvg-name="",ESPN2"
 http://saypopular.com:25461/oscar/20gar/52764
