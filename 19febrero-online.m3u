@@ -1,13 +1,19 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR085BABYTV.png" group-title="📺NIÑ@S📺" tvg-name="",Baby TV
+https://chinolistas.000webhostapp.com/canal/abc.php/a007/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US789BOOMERANGHD.png" group-title="📺NIÑ@S📺" tvg-name="",Boomerang
-http://saypopular.com:25461/oscar/20gar/52732
+https://chinolistas.000webhostapp.com/canal/abc.php/a01j/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cachipum.tv/wp-content/uploads/2020/04/logo.png" group-title="📺NIÑ@S📺" tvg-name="",Cachipum tv | HD
+http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w1586053473.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="📺NIÑ@S📺" tvg-name="",Cartoon Network |HD
 http://saypopular.com:25461/oscar/20gar/52737
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/nap3dLw95-c/hqdefault.jpg" group-title="📺NIÑ@S📺" tvg-name="",Discovery Kids 
-http://190.13.162.66:8081/play/a008
+https://chinolistas.000webhostapp.com/canal/abc.php/a06n/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US027Disney-JR.png" group-title="📺NIÑ@S📺" tvg-name="",Disney JR SD
 http://190.13.162.66:8081/play/a01l
@@ -16,10 +22,10 @@ http://190.13.162.66:8081/play/a01l
 http://190.13.162.66:8081/play/a018
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/96/ee/5f/96ee5f700da7a177c40262231f650467.png" group-title="📺NIÑ@S📺" tvg-name="",Disney |HD
-http://saypopular.com:25461/5rob5/050505/52756
+https://chinolistas.000webhostapp.com/canal/abc.php/a04q/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR047DisneyXDFR.png" group-title="📺NIÑ@S📺" tvg-name="",Disney XD 
-http://saypopular.com:25461/5rob5/050505/52758
+https://chinolistas.000webhostapp.com/canal/abc.php/a09d/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR210NatGeoKidsFHD.png" group-title="📺NIÑ@S📺" tvg-name="",Nat Geo Kids 
 http://190.13.162.66:8081/play/a01y
@@ -28,21 +34,21 @@ http://190.13.162.66:8081/play/a01y
 http://190.13.162.66:8081/play/a00p
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US141Nickelodeon.png" group-title="📺NIÑ@S📺" tvg-name="",Nickelodeon 
-http://saypopular.com:25461/5rob5/050505/52811
+https://chinolistas.000webhostapp.com/canal/abc.php/a04p/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/axn.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",AXN |HD
 http://190.13.162.66:8081/play/a00w
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/AE.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",A&E HD
-http://saypopular.com:25461/oscar/20gar/52714
+https://chinolistas.000webhostapp.com/canal/abc.php/a0cg/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://television.mxdwn.com/wp-content/uploads/2019/04/amc-logo.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",AMC HD
-http://saypopular.com:25461/oscar/20gar/52718
+https://chinolistas.000webhostapp.com/canal/abc.php/a0ch/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/cinemax.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",CINEMAX |HD
 http://190.13.162.66:8081/play/a00u
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/cinemax.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",CINEMAX |HD
-http://saypopular.com:25461/oscar/20gar/52740
+https://chinolistas.000webhostapp.com/canal/abc.php/a053/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA265DHE.png" group-title="📺SERIES & CINEMA📺" tvg-name="",DHE HD
 http://ipeteve.com/php/SR_REGIO220221/tv3.php?c=1467_&f=.m3u8
@@ -51,7 +57,7 @@ http://ipeteve.com/php/SR_REGIO220221/tv3.php?c=1467_&f=.m3u8
 http://saypopular.com:25461/5rob5/050505/52743
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/fx.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",FX |HD
-http://190.13.162.66:8081/play/a00y
+https://chinolistas.000webhostapp.com/canal/abc.php/a05r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/fa/21/1f/fa211f021ac394bf91fdc5087ad6ed70.png" group-title="📺SERIES & CINEMA📺" tvg-name="",FX MOVIES |HD
 http://190.13.162.66:8081/play/a00f
@@ -63,69 +69,77 @@ http://saypopular.com:25461/5rob5/050505/52788
 http://saypopular.com:25461/5rob5/050505/52789
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/golden.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",Golden EDGE
-http://saypopular.com:25461/5rob5/050505/52787
+https://chinolistas.000webhostapp.com/canal/abc.php/a039/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://51.15.181.146/iconos/hbo.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",HBO |HD
 http://190.13.162.66:8081/play/a00t
+#EXTINF:-1 tvg-logo="http://51.15.181.146/iconos/hbo.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",HBO |HD
+https://chinolistas.000webhostapp.com/canal/abc.php/a010/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://51.15.181.146/iconos/hbo2.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",HBO2 |HD
-http://saypopular.com:25461/5rob5/050505/52792
+https://chinolistas.000webhostapp.com/canal/abc.php/a011/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/hbo-fami.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",HBO Family |HD
-http://saypopular.com:25461/5rob5/050505/52793
-
-#EXTINF:-1 tvg-logo="http://xtremesportsplus.myq-see.com:8080/images/a1ec0c5f86cd6d78b06290cca0a23bb9.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",HBO MUNDI
-http://200.54.19.131:8500/play/a0k4/index.m3u8
+https://chinolistas.000webhostapp.com/canal/abc.php/a013/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://51.15.181.146/iconos/hopluse.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",HBO Plus |HD
-http://saypopular.com:25461/5rob5/050505/52794
+https://chinolistas.000webhostapp.com/canal/abc.php/a012/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://51.15.181.146/iconos/HBOXTREME.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",HBO Xtreme |HD
+https://chinolistas.000webhostapp.com/canal/abc.php/a014/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/paramont.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",Paramount |HD
-http://localdblagent.club:8080/October25/October25/12133
+https://chinolistas.000webhostapp.com/canal/abc.php/a06k/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/sony.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",SONY SD
 http://190.13.162.66:8081/play/a00v
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rtgxsqC/STAR-Channel.png" group-title="📺SERIES & CINEMA📺" tvg-name="",ST☆R Channel |HD
-http://saypopular.com:25461/5rob5/050505/52771
+https://chinolistas.000webhostapp.com/canal/abc.php/a04r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dBRV3Pk/STAR-Life.png" group-title="📺SERIES & CINEMA📺" tvg-name="",ST☆R Life |HD
 http://190.13.162.66:8081/play/a01v
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qsMcD5L/STAR-Action.png" group-title="📺SERIES & CINEMA📺" tvg-name="",ST☆R Action |HD
-http://saypopular.com:25461/5rob5/050505/52772
+https://chinolistas.000webhostapp.com/canal/abc.php/a06b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k215Dcc/STAR-Comedy.png" group-title="📺SERIES & CINEMA📺" tvg-name="",ST☆R Comedy|HD
+https://chinolistas.000webhostapp.com/canal/abc.php/a06s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VgpxYK8/STAR-Fun.png" group-title="📺SERIES & CINEMA📺" tvg-name="",ST☆R Fun |HD
-http://saypopular.com:25461/5rob5/050505/52775
+https://chinolistas.000webhostapp.com/canal/abc.php/a06c/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PQprMbb/STAR-Hits.png" group-title="📺SERIES & CINEMA📺" tvg-name="",ST☆R Hits |HD
 http://190.13.162.66:8081/play/a00i
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GV8XBdf/STAR-Series.png" group-title="📺SERIES & CINEMA📺" tvg-name="",ST☆R Series |HD
-http://saypopular.com:25461/5rob5/050505/52778
+https://chinolistas.000webhostapp.com/canal/abc.php/a069/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yYfM0Bw/STAR-Cinema.png" group-title="📺SERIES & CINEMA📺" tvg-name="",ST☆R Cinema |HD
 http://saypopular.com:25461/5rob5/050505/52773
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WPK3CwN/STAR-Classics.png" group-title="📺SERIES & CINEMA📺" tvg-name="",ST☆R Classics |HD
-http://saypopular.com:25461/5rob5/050505/52774
+https://chinolistas.000webhostapp.com/canal/abc.php/a06d/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/sapcehd.png" group-title="📺SERIES & CINEMA📺" tvg-name="",SPACE HD
 http://190.13.162.66:8081/play/a00x
 
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR090StudioUniversal.png" group-title="📺SERIES & CINEMA📺" tvg-name="",STUDIO UNIVERSAL |HD
+https://chinolistas.000webhostapp.com/canal/abc.php/a0cb/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/SYFY.png" group-title="📺SERIES & CINEMA📺" tvg-name="",SYFY 
-http://saypopular.com:25461/oscar/20gar/52823
+https://chinolistas.000webhostapp.com/canal/abc.php/a05k/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/tnthd.png" group-title="📺SERIES & CINEMA📺" tvg-name="",TNT |HD
 http://190.13.162.66:8081/play/a020
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/tntseries.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",TNT SERIES
-http://saypopular.com:25461/5rob5/050505/52831
+https://chinolistas.000webhostapp.com/canal/abc.php/a06l/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/universal.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",UNIVERSAL 
 http://190.13.162.66:8081/play/a01q
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/universal.jpg" group-title="📺SERIES & CINEMA📺" tvg-name="",UNIVERSAL
-http://saypopular.com:25461/5rob5/050505/52849
+https://chinolistas.000webhostapp.com/canal/abc.php/a0et/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://xtremesportsplus.myq-see.com:8080/images/72a6af9fbf8ef425faf15f9cb5abdc88.png" group-title="📺SERIES & CINEMA📺" tvg-name="",WARNER HD
 http://190.13.162.66:8081/play/a017
@@ -134,19 +148,26 @@ http://190.13.162.66:8081/play/a017
 http://190.13.162.66:8081/play/a016
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/animal.jpg" group-title="📺CULTURA📺" tvg-name="",ANIMAL PLANET |HD
-http://saypopular.com:25461/oscar/20gar/52719
+https://chinolistas.000webhostapp.com/canal/abc.php/a0ew/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/discovery.jpg" group-title="📺CULTURA📺" tvg-name="",DISCOVERY CHANNEL |HD
 http://190.13.162.66:8081/play/a015
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/discovery.jpg" group-title="📺CULTURA📺" tvg-name="",DISCOVERY CHANNEL |HD
-http://saypopular.com:25461/5rob5/050505/52744
+https://chinolistas.000webhostapp.com/canal/abc.php/a06m/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/id.png" group-title="📺CULTURA📺" tvg-name="",Discovery ID |HD
 http://190.13.162.66:8081/play/a023
+#EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/id.png" group-title="📺CULTURA📺" tvg-name="",Discovery ID |HD
+https://chinolistas.000webhostapp.com/canal/abc.php/a06r/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/discoveryhh.jpg" group-title="📺CULTURA📺" tvg-name="",DISCOVERY H&H SD
 http://saypopular.com:25461/5rob5/050505/52748
+#EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/discoveryhh.jpg" group-title="📺CULTURA📺" tvg-name="",DISCOVERY H&H SD
+https://chinolistas.000webhostapp.com/canal/abc.php/a04t/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/sci.png" group-title="📺CULTURA📺" tvg-name="",DISCOVERY SCIENCE |HD
+https://chinolistas.000webhostapp.com/canal/abc.php/a00d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/252-2529722_discovery-hd-theater-discovery-channel.png" group-title="📺CULTURA📺" tvg-name="",DISCOVERY THEATHER |HD
 http://saypopular.com:25461/5rob5/050505/52752
@@ -161,22 +182,22 @@ http://saypopular.com:25461/5rob5/050505/52754
 http://91.126.141.12:1935/live/discoverymax/chunklist_w1033105812.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Discovery_Civilization_1998.png/revision/latest?cb=20091112185125" group-title="📺CULTURA📺" tvg-name="",Discovery Civilization
-http://saypopular.com:25461/oscar/20gar/52745
+https://chinolistas.000webhostapp.com/canal/abc.php/a00c/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://xtremesportsplus.myq-see.com:8080/images/3cd15f8f2940aff879df34df4e5c2cd1.jpg" group-title="📺CULTURA📺" tvg-name="",HISTORY |HD
 http://saypopular.com:25461/5rob5/050505/52797
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/h2.jpg" group-title="📺CULTURA📺" tvg-name="",H2 SD
-http://saypopular.com:25461/5rob5/050505/52796
+https://chinolistas.000webhostapp.com/canal/abc.php/a033/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/natgeo.jpg" group-title="📺CULTURA📺" tvg-name="",NAT GEO |HD
 http://190.13.162.66:8081/play/a01n
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/natgeo.jpg" group-title="📺CULTURA📺" tvg-name="",NAT GEO |HD
-http://saypopular.com:25461/5rob5/050505/52810
+https://chinolistas.000webhostapp.com/canal/abc.php/a06j/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/natgeowild.jpg" group-title="📺CULTURA📺" tvg-name="",NATGEO WILD SD
-http://saypopular.com:25461/oscar/20gar/52809
+https://chinolistas.000webhostapp.com/canal/abc.php/a032/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/tlc-discovery.jpg" group-title="📺CULTURA📺" tvg-name="",TLC 
 http://saypopular.com:25461/oscar/20gar/52753
@@ -193,17 +214,20 @@ http://saypopular.com:25461/5rob5/050505/52720
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/comedy.png" group-title="📺ENTRE📺" tvg-name="",COMEDY CENTRAL HD
 http://saypopular.com:25461/5rob5/050505/52742
 
-#EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/distrito-comedy.jpg" group-title="📺ENTRE📺" tvg-name="",DISTRITO COMEDIA TP MX
-http://saypopular.com:25461/5rob5/050505/52759
+#EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/distrito-comedy.jpg" group-title="📺ENTRE📺" tvg-name="",DISTRITO COMEDIA
+https://chinolistas.000webhostapp.com/canal/abc.php/a066/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/E.jpg" group-title="📺ENTRE📺" tvg-name="",E! 
-http://190.13.162.66:8081/play/a018
+https://chinolistas.000webhostapp.com/canal/abc.php/a05m/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA044ELGourmet.png" group-title="📺ENTRE📺" tvg-name="",EL GOURMET HD
 http://saypopular.com:25461/oscar/20gar/52762
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/estrellatv.png" group-title="📺ENTRE📺" tvg-name="",ESTRELLA TV
 http://saypopular.com:25461/5rob5/050505/52768
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="📺ENTRE📺" tvg-name="",FILMS & ARTS HD
+https://chinolistas.000webhostapp.com/canal/abc.php/a0cf/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/food.png" group-title="📺ENTRE📺" tvg-name="",FOOD NETWORK TP MX
 http://ipeteve.com/php/SR_REGIO220221/tv3.php?c=86_&f=.m3u8
@@ -215,7 +239,7 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 http://saypopular.com:25461/oscar/20gar/52784
 
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/holatv.jpg" group-title="📺ENTRE📺" tvg-name="",HOLA !TV SD
-http://localdblagent.club:8080/October25/October25/12109
+https://chinolistas.000webhostapp.com/canal/abc.php/a065/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/TVE1_logo_2007.png/revision/latest/scale-to-width-down/340?cb=20200324214729&path-prefix=es" group-title="📺ENTRE📺" tvg-name="",LA 1 |HD
 https://rtvelivestream.akamaized.net/la1_dvr_4000.m3u8
@@ -229,8 +253,14 @@ http://saypopular.com:25461/oscar/20gar/35394
 #EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/Unicable.jpg" group-title="📺ENTRE📺" tvg-name="",UNICABLE TP MX
 http://saypopular.com:25461/5rob5/050505/52847
 
+#EXTINF:-1 tvg-logo="https://logopond.com/logos/c3966093ee94ae75a6f65778327bf70c.png" group-title="📺ENTRE📺" tvg-name="",TELESISTEMA
+https://chinolistas.000webhostapp.com/canal/abc.php/a01c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/1200px-Sun_Channel_logo.svg.png" group-title="📺ENTRE📺" tvg-name="",SUN CHANNEL
+https://chinolistas.000webhostapp.com/canal/abc.php/a00r/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://optic-communications.com/wp-content/uploads/2017/05/vh1.png" group-title="📺Music📺" tvg-name="",VH1 |HD
-http://saypopular.com:25461/5rob5/050505/52850
+https://chinolistas.000webhostapp.com/canal/abc.php/a0es/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_10/large.musictop2020.png.99d94848bab42ba81b3432050a46eb0f.png" group-title="📺Music📺" tvg-name="",Music Top | HD
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
@@ -252,3 +282,242 @@ http://saypopular.com:25461/oscar/20gar/52764
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR326NBATVFHD.png" group-title="📺DEPORTES📺" tvg-name="",NBA TV"
 http://saypopular.com:25461/5rob5/050505/52764
+
+#EXTINF:-1 tvg-logo="" group-title="📺PELICULAS📺" tvg-name="",MONSTER INC"
+http://contentheinentv.ddns.net:80/Contenido/Peliculas/Comedia/MONSTER%20INC.mkv
+
+#EXTINF:-1 tvg-logo="" group-title="📺PELICULAS📺" tvg-name="",MI PRIMER BESO"
+http://contentheinentv.ddns.net:80/Contenido/Peliculas/Comedia/MI%20PRIMER%20BESO.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="📺PELICULAS📺" tvg-name="",LOCOS POR LAS NUECES"
+http://contentheinentv.ddns.net:80/Contenido/Peliculas/Comedia/LOCOS%20POR%20LAS%20NUECES.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="📺PELICULAS📺" tvg-name="",Toy Story"
+http://contentheinentv.ddns.net:80/Contenido/Peliculas/Infantil/Toy%20Story.mkv
+
+#EXTINF:-1 tvg-logo="" group-title="📺PELICULAS📺" tvg-name="",Toy Story 2"
+http://contentheinentv.ddns.net:80/Contenido/Peliculas/Infantil/Toy%20Story%202.mkv
+
+#EXTINF:-1 tvg-logo="" group-title="📺PELICULAS📺" tvg-name="",Toy Story 3"
+http://contentheinentv.ddns.net:80/Contenido/Peliculas/Infantil/Toy%20Story%203.mkv
+
+#EXTINF:-1 tvg-logo="" group-title="📺PELICULAS📺" tvg-name="",Toy Story 4"
+http://heinentv.ddns.net:25461/movie/wayne/wayne/26934.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="📺PELICULAS📺" tvg-name="",Tom.and.Jerry.2021"
+http://heinentv.ddns.net:25461/movie/wayne/wayne/30055.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="📺PELICULAS📺" tvg-name="",Pinocchio"
+http://contentheinentv.ddns.net:80/Contenido/Peliculas/Infantil/PINOCHO.mkv
+
+#EXTINF:-1,El Chavo Animado S01 E01
+http://heinentv.ddns.net:25461/series/wayne/wayne/15989.mp4
+#EXTINF:-1,El Chavo Animado S01 E02
+http://heinentv.ddns.net:25461/series/wayne/wayne/15990.mp4
+#EXTINF:-1,El Chavo Animado S01 E03
+http://heinentv.ddns.net:25461/series/wayne/wayne/15991.mp4
+#EXTINF:-1,El Chavo Animado S01 E04
+http://heinentv.ddns.net:25461/series/wayne/wayne/15992.mp4
+#EXTINF:-1,El Chavo Animado S01 E05
+http://heinentv.ddns.net:25461/series/wayne/wayne/15993.mp4
+#EXTINF:-1,El Chavo Animado S01 E06
+http://heinentv.ddns.net:25461/series/wayne/wayne/15994.mp4
+#EXTINF:-1,El Chavo Animado S01 E07
+http://heinentv.ddns.net:25461/series/wayne/wayne/15995.mp4
+#EXTINF:-1,El Chavo Animado S01 E08
+http://heinentv.ddns.net:25461/series/wayne/wayne/15996.mp4
+#EXTINF:-1,El Chavo Animado S01 E09
+http://heinentv.ddns.net:25461/series/wayne/wayne/15997.mp4
+#EXTINF:-1,El Chavo Animado S01 E10
+http://heinentv.ddns.net:25461/series/wayne/wayne/15998.mp4
+#EXTINF:-1,El Chavo Animado S01 E11
+http://heinentv.ddns.net:25461/series/wayne/wayne/15999.mp4
+#EXTINF:-1,El Chavo Animado S01 E12
+http://heinentv.ddns.net:25461/series/wayne/wayne/16000.mp4
+#EXTINF:-1,El Chavo Animado S01 E13
+http://heinentv.ddns.net:25461/series/wayne/wayne/16001.mp4
+#EXTINF:-1,El Chavo Animado S01 E14
+http://heinentv.ddns.net:25461/series/wayne/wayne/16002.mp4
+#EXTINF:-1,El Chavo Animado S01 E15
+http://heinentv.ddns.net:25461/series/wayne/wayne/16003.mp4
+#EXTINF:-1,El Chavo Animado S01 E16
+http://heinentv.ddns.net:25461/series/wayne/wayne/16004.mp4
+#EXTINF:-1,El Chavo Animado S01 E17
+http://heinentv.ddns.net:25461/series/wayne/wayne/16005.mp4
+#EXTINF:-1,El Chavo Animado S01 E18
+http://heinentv.ddns.net:25461/series/wayne/wayne/16006.mp4
+#EXTINF:-1,El Chavo Animado S01 E19
+http://heinentv.ddns.net:25461/series/wayne/wayne/16007.mp4
+#EXTINF:-1,El Chavo Animado S01 E20
+http://heinentv.ddns.net:25461/series/wayne/wayne/16008.mp4
+#EXTINF:-1,El Chavo Animado S01 E21
+http://heinentv.ddns.net:25461/series/wayne/wayne/16009.mp4
+#EXTINF:-1,El Chavo Animado S01 E22
+http://heinentv.ddns.net:25461/series/wayne/wayne/16010.mp4
+#EXTINF:-1,El Chavo Animado S01 E23
+http://heinentv.ddns.net:25461/series/wayne/wayne/16011.mp4
+#EXTINF:-1,El Chavo Animado S01 E24
+http://heinentv.ddns.net:25461/series/wayne/wayne/16012.mp4
+#EXTINF:-1,El Chavo Animado S01 E25
+http://heinentv.ddns.net:25461/series/wayne/wayne/16013.mp4
+#EXTINF:-1,El Chavo Animado S01 E26
+http://heinentv.ddns.net:25461/series/wayne/wayne/16014.mp4
+#EXTINF:-1,El Chavo Animado S02 E01
+http://heinentv.ddns.net:25461/series/wayne/wayne/16015.mp4
+#EXTINF:-1,El Chavo Animado S02 E02
+http://heinentv.ddns.net:25461/series/wayne/wayne/16016.mp4
+#EXTINF:-1,El Chavo Animado S02 E03
+http://heinentv.ddns.net:25461/series/wayne/wayne/16017.mp4
+#EXTINF:-1,El Chavo Animado S02 E04
+http://heinentv.ddns.net:25461/series/wayne/wayne/16018.mp4
+#EXTINF:-1,El Chavo Animado S02 E05
+http://heinentv.ddns.net:25461/series/wayne/wayne/16019.mp4
+#EXTINF:-1,El Chavo Animado S02 E06
+http://heinentv.ddns.net:25461/series/wayne/wayne/16020.mp4
+#EXTINF:-1,El Chavo Animado S02 E07
+http://heinentv.ddns.net:25461/series/wayne/wayne/16021.mp4
+#EXTINF:-1,El Chavo Animado S02 E08
+http://heinentv.ddns.net:25461/series/wayne/wayne/16022.mp4
+
+#EXTINF:-1,La Reina Soy Yo S01 E01
+http://heinentv.ddns.net:25461/series/wayne/wayne/25957.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E02
+http://heinentv.ddns.net:25461/series/wayne/wayne/25958.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E03
+http://heinentv.ddns.net:25461/series/wayne/wayne/25959.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E04
+http://heinentv.ddns.net:25461/series/wayne/wayne/25960.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E05
+http://heinentv.ddns.net:25461/series/wayne/wayne/25961.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E06
+http://heinentv.ddns.net:25461/series/wayne/wayne/25962.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E07
+http://heinentv.ddns.net:25461/series/wayne/wayne/25963.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E08
+http://heinentv.ddns.net:25461/series/wayne/wayne/25964.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E09
+http://heinentv.ddns.net:25461/series/wayne/wayne/25965.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E10
+http://heinentv.ddns.net:25461/series/wayne/wayne/25966.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E11
+http://heinentv.ddns.net:25461/series/wayne/wayne/25967.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E12
+http://heinentv.ddns.net:25461/series/wayne/wayne/25968.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E13
+http://heinentv.ddns.net:25461/series/wayne/wayne/25969.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E14
+http://heinentv.ddns.net:25461/series/wayne/wayne/25970.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E15
+http://heinentv.ddns.net:25461/series/wayne/wayne/25971.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E16
+http://heinentv.ddns.net:25461/series/wayne/wayne/25972.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E17
+http://heinentv.ddns.net:25461/series/wayne/wayne/25973.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E18
+http://heinentv.ddns.net:25461/series/wayne/wayne/25974.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E19
+http://heinentv.ddns.net:25461/series/wayne/wayne/25975.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E20
+http://heinentv.ddns.net:25461/series/wayne/wayne/25976.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E21
+http://heinentv.ddns.net:25461/series/wayne/wayne/25977.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E22
+http://heinentv.ddns.net:25461/series/wayne/wayne/25978.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E23
+http://heinentv.ddns.net:25461/series/wayne/wayne/25979.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E24
+http://heinentv.ddns.net:25461/series/wayne/wayne/25980.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E25
+http://heinentv.ddns.net:25461/series/wayne/wayne/25981.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E26
+http://heinentv.ddns.net:25461/series/wayne/wayne/25982.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E27
+http://heinentv.ddns.net:25461/series/wayne/wayne/25983.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E28
+http://heinentv.ddns.net:25461/series/wayne/wayne/25984.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E29
+http://heinentv.ddns.net:25461/series/wayne/wayne/25985.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E30
+http://heinentv.ddns.net:25461/series/wayne/wayne/25986.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E31
+http://heinentv.ddns.net:25461/series/wayne/wayne/25987.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E32
+http://heinentv.ddns.net:25461/series/wayne/wayne/25988.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E33
+http://heinentv.ddns.net:25461/series/wayne/wayne/25989.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E34
+http://heinentv.ddns.net:25461/series/wayne/wayne/25990.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E35
+http://heinentv.ddns.net:25461/series/wayne/wayne/25991.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E36
+http://heinentv.ddns.net:25461/series/wayne/wayne/25992.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E37
+http://heinentv.ddns.net:25461/series/wayne/wayne/25993.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E38
+http://heinentv.ddns.net:25461/series/wayne/wayne/25994.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E39
+http://heinentv.ddns.net:25461/series/wayne/wayne/25995.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E40
+http://heinentv.ddns.net:25461/series/wayne/wayne/25996.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E41
+http://heinentv.ddns.net:25461/series/wayne/wayne/25997.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E42
+http://heinentv.ddns.net:25461/series/wayne/wayne/25998.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E43
+http://heinentv.ddns.net:25461/series/wayne/wayne/25999.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E44
+http://heinentv.ddns.net:25461/series/wayne/wayne/26000.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E45
+http://heinentv.ddns.net:25461/series/wayne/wayne/26001.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E46
+http://heinentv.ddns.net:25461/series/wayne/wayne/26002.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E47
+http://heinentv.ddns.net:25461/series/wayne/wayne/26003.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E48
+http://heinentv.ddns.net:25461/series/wayne/wayne/26004.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E49
+http://heinentv.ddns.net:25461/series/wayne/wayne/26005.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E50
+http://heinentv.ddns.net:25461/series/wayne/wayne/26006.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E51
+http://heinentv.ddns.net:25461/series/wayne/wayne/26007.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E52
+http://heinentv.ddns.net:25461/series/wayne/wayne/26008.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E53
+http://heinentv.ddns.net:25461/series/wayne/wayne/26009.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E54
+http://heinentv.ddns.net:25461/series/wayne/wayne/26010.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E55
+http://heinentv.ddns.net:25461/series/wayne/wayne/26011.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E56
+http://heinentv.ddns.net:25461/series/wayne/wayne/26012.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E57
+http://heinentv.ddns.net:25461/series/wayne/wayne/26013.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E58
+http://heinentv.ddns.net:25461/series/wayne/wayne/26014.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E59
+http://heinentv.ddns.net:25461/series/wayne/wayne/26015.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E60
+http://heinentv.ddns.net:25461/series/wayne/wayne/26016.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E61
+http://heinentv.ddns.net:25461/series/wayne/wayne/26017.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E62
+http://heinentv.ddns.net:25461/series/wayne/wayne/26018.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E63
+http://heinentv.ddns.net:25461/series/wayne/wayne/26019.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E64
+http://heinentv.ddns.net:25461/series/wayne/wayne/26020.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E65
+http://heinentv.ddns.net:25461/series/wayne/wayne/26021.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E66
+http://heinentv.ddns.net:25461/series/wayne/wayne/26022.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E67
+http://heinentv.ddns.net:25461/series/wayne/wayne/26023.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E68
+http://heinentv.ddns.net:25461/series/wayne/wayne/26024.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E69
+http://heinentv.ddns.net:25461/series/wayne/wayne/26025.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E70
+http://heinentv.ddns.net:25461/series/wayne/wayne/26026.mp4
+#EXTINF:-1,La Reina Soy Yo S01 E71
+http://heinentv.ddns.net:25461/series/wayne/wayne/26027.mp4
