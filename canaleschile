@@ -1,0 +1,103 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: Cine Chile 1 HD
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83720
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: Cine Chile 2 HD
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83721
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: Cine Chile 3 HD
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83722
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: PLAZA DIGNIDAD 2020 GALERIA CIMA
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83723
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: 13C (MOVIL)
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83725
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: 13C SD
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83726
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: 13C HD
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83727
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: 13i HD
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83728
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: Canal 13 SD
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83730
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: Canal 13 HD
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83731
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: Canal 13 FHD H265
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83732
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: Chilevision (MOVIL)
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83733
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: Chilevision SD
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83734
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: Chilevision HD
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83735
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: Chilevision FHD
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83736
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: Mega (MOVIL)
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83737
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: Mega SD
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83738
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: Mega HD
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83739
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: TVN (MOVIL)
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83740
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: TVN SD
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83741
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: TVN HD
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83742
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: TV Chile HD
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83744
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: TV Chile FHD (H265)
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83745
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: La Red SD
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83746
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: La Red HD
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83747
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: TV+ (MOVIL)
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83748
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: TV+ SD
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83749
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: TV+ FHD
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83750
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: Canal 24 Horas SD
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83751
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: Canal 24 Horas HD
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83752
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: Mega Ahora Noticias SD
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83753
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: Mega Ahora Noticias HD
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83754
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: CNN Chile (MOVIL)
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83755
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: CNN Chile SD
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83756
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: CNN Chile HD
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83757
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: TV Educa Chile HD
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83758
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: UCV 3
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83759
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: Rec TV (MOVIL)
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83760
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: Rec TV
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83761
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: Zona Latina HD
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83762
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: Carolina TV
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83763
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: Etc TV (MOVIL)
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83764
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: Etc TV
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83765
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: VC Online
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83766
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: Camara de Diputados FHD
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83767
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: TV Salud
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83768
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: Canal Costa TV HD
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83769
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: Antofagasta TV FHD
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83770
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: Canal 9 Bio Bio FHD
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83771
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: Pinguino TV HD
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83772
+#EXTINF:0 tvg-id="ext" group-title="CHILE",CL: TV 8 Concepcion
+http://gigaplay-pro.club:8080/Santiago3030/3030santiago/83773
