@@ -25,7 +25,7 @@ http://tvpremiund.ddns.me:2082/antonioiptv8/iptv2348d/31706
 http://195.66.210.10:80/Antoniogalvez/CNPFZ/177323
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | DON GATO Y SU PANDILLA ⭐️" tvg-logo="https://e7.pngegg.com/pngimages/247/181/png-clipart-spider-man-youtube-rhino-various-comics-heroes-text.png" group-title="24/7",24/7 | DON GATO Y SU PANDILLA
 http://195.66.210.10:80/Antoniogalvez/CNPFZ/169819
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | ED, EDD Y EDDY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7",24/7 | ED EDD Y EDDY
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | ED, EDD Y EDDY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7",24/7 | ED, EDD Y EDDY
 http://195.66.210.10:80/Antoniogalvez/CNPFZ/531615
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | EL BEBE JEFAZO ⭐️" tvg-logo="https://pics.filmaffinity.com/El_beb_jefazo_Vuelta_al_curro_Serie_de_TV-721264653-large.jpg" group-title="24/7",24/7 | EL BEBE JEFAZO
 http://195.66.210.10:80/Antoniogalvez/CNPFZ/107981
@@ -69,6 +69,8 @@ http://195.66.210.10:80/Antoniogalvez/CNPFZ/217011
 http://195.66.210.10:80/Antoniogalvez/CNPFZ/108027
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | TOY STORY ⭐️" tvg-logo="http://panel.tured.live:8080/images/1069f1aba07d6c26f72572038b9f3ade.png" group-title="24/7",24/7 | TOY STORY
 http://195.66.210.10:80/Antoniogalvez/CNPFZ/177367
+#EXTINF:-1 tvg-id="" tvg-name="MasterChef (360p)" tvg-logo="https://i.imgur.com/y8mEM4a.png" group-title="24/7",24/7 | MasterChef
+http://tvpremiund.ddns.me:2082/antonioiptv8/iptv2348d/70793
 
 ############################
 #  INFANTIL
@@ -95,5 +97,11 @@ http://tvpremiund.ddns.me:2082/movie/antonioiptv8/iptv2348d/82251.mp4
 http://195.66.210.10:80/movie/Tommy23/xPSDsrDtk8/613262.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Karate Kid: Leyendas (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bwNAjGUsHt35eqT0Aj8NHU02WPl.jpg" group-title="Estrenos 2025",Karate Kid: Leyendas (2025)
 http://tvpremiund.ddns.me:2082/movie/antonioiptv8/iptv2348d/82162.mkv
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Giro final (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/npzFyBu4fFPQpWXaLKdrXc6JrUK.jpg" group-title="Estrenos 2025",Giro final (2025)
+http://tvpremiund.ddns.me:2082/movie/antonioiptv8/iptv2348d/81729.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gravedad cero (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rOMi0FAfFwLfS1qsoklDAejI70.jpg" group-title="Estrenos 2025",Gravedad cero (2025)
+http://tvpremiund.ddns.me:2082/movie/antonioiptv8/iptv2348d/81882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La huella del mal (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o410zKXtZYy2vVBcQJPxzOc9KYc.jpg" group-title="Estrenos 2025",La huella del mal (2025)
+http://tvpremiund.ddns.me:2082/movie/antonioiptv8/iptv2348d/82244.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mamá Reinventada (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUZSqIesoLoX9Z8ByHwm8xUCaTg.jpg" group-title="Estrenos 2025",Mamá Reinventada (2025)
+http://tvpremiund.ddns.me:2082/movie/antonioiptv8/iptv2348d/82221.mp4
