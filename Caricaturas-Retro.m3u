@@ -1,15 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | KENAN & KEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7",24/7 | KENAN & KEL
-http://195.66.210.10:80/Antoniogalvez/CNPFZ/531673
+
+############################
+#  24/7
+############################
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | ALERTA AEROPUERTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7",24/7 | ALERTA AEROPUERTO
 http://195.66.210.10:80/Antoniogalvez/CNPFZ/531669
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | BOB ESPONJA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dAfgwXs9HCEDnzPpBHVyrUeb8xi.jpg" group-title="24/7",24/7 | BOB ESPONJA
+http://195.66.210.10:80/Antoniogalvez/CNPFZ/531694
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | CASO CERRADO ⭐️" tvg-logo="https://ahoramismo.com/wp-content/uploads/2020/11/Caso-cerrado.jpg?quality=65&strip=all" group-title="24/7",24/7 | CASO CERRADO
+http://195.66.210.10:80/Antoniogalvez/CNPFZ/107845
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | CHESPIRÍTO ⭐️" tvg-logo="https://vignette.wikia.nocookie.net/chespirito/images/a/a4/Chespirito_1991.png/revision/latest?cb=20180907201947&path-prefix=es" group-title="24/7",24/7 | CHESPIRÍTO
 http://195.66.210.10:80/Antoniogalvez/CNPFZ/51343
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | CHESPIRITO" tvg-logo="https://img-sandiegored.buscafs.com/355915/355915_360x240.jpg" group-title="24/7",24/7 | Chespirito
+http://tvpremiund.ddns.me:2082/antonioiptv8/iptv2348d/48357
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | CINEMA HORROR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7",24/7 | CINEMA HORROR
+http://195.66.210.10:80/Antoniogalvez/CNPFZ/177330
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Cinema Disney" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="24/7",24/7 | Cinema Disney
+http://tvpremiund.ddns.me:2082/antonioiptv8/iptv2348d/31708
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Cinema Horror" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="24/7",24/7 | Cinema Horror
+http://tvpremiund.ddns.me:2082/antonioiptv8/iptv2348d/31710
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Cinema Marvel" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="24/7",24/7 | Cinema Marvel
+http://tvpremiund.ddns.me:2082/antonioiptv8/iptv2348d/31706
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DISNEY PRINCESS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7",24/7 | DISNEY PRINCESS
+http://195.66.210.10:80/Antoniogalvez/CNPFZ/177323
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DON GATO Y SU PANDILLA ⭐️" tvg-logo="https://e7.pngegg.com/pngimages/247/181/png-clipart-spider-man-youtube-rhino-various-comics-heroes-text.png" group-title="24/7",24/7 | DON GATO Y SU PANDILLA
+http://195.66.210.10:80/Antoniogalvez/CNPFZ/169819
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | ED, EDD Y EDDY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7",24/7 | ED, EDD Y EDDY
+http://195.66.210.10:80/Antoniogalvez/CNPFZ/531615
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL BEBE JEFAZO ⭐️" tvg-logo="https://pics.filmaffinity.com/El_beb_jefazo_Vuelta_al_curro_Serie_de_TV-721264653-large.jpg" group-title="24/7",24/7 | EL BEBE JEFAZO
+http://195.66.210.10:80/Antoniogalvez/CNPFZ/107981
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAPULIN COLORADO ANIMADO ⭐️" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/4/4e/PosterChapulinAnimado.jpg" group-title="24/7",24/7 | EL CHAPULIN COLORADO ANIMADO
 http://195.66.210.10:80/Antoniogalvez/CNPFZ/177376
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAPULÍN COLORADO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Chapulin_Colorado_Animado_Logo.png" group-title="24/7",24/7 | EL CHAPULÍN COLORADO
 http://195.66.210.10:80/Antoniogalvez/CNPFZ/72328
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAVO DEL 8  ⭐️" tvg-logo="https://www.pikpng.com/pngl/b/339-3392974_chavo-del-8-png-chavo-del-8-meme.png" group-title="24/7",24/7 | EL CHAVO DEL 8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAVO DEL 8 ⭐️" tvg-logo="https://www.pikpng.com/pngl/b/339-3392974_chavo-del-8-png-chavo-del-8-meme.png" group-title="24/7",24/7 | EL CHAVO DEL 8
 http://195.66.210.10:80/Antoniogalvez/CNPFZ/216295
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAVO DEL OCHO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7",24/7 | EL CHAVO DEL OCHO
 http://195.66.210.10:80/Antoniogalvez/CNPFZ/531614
@@ -19,26 +43,12 @@ http://195.66.210.10:80/Antoniogalvez/CNPFZ/216294
 http://195.66.210.10:80/Antoniogalvez/CNPFZ/51346
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | EL PÁJARO LOCO ⭐️" tvg-logo="https://dl.dropboxusercontent.com/s/e0zmrxnwdw5ak81/pajaroloco.png" group-title="24/7",24/7 | EL PÁJARO LOCO
 http://195.66.210.10:80/Antoniogalvez/CNPFZ/177169
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | TOY STORY ⭐️" tvg-logo="http://panel.tured.live:8080/images/1069f1aba07d6c26f72572038b9f3ade.png" group-title="24/7",24/7 | TOY STORY
-http://195.66.210.10:80/Antoniogalvez/CNPFZ/177367
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | BOB ESPONJA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dAfgwXs9HCEDnzPpBHVyrUeb8xi.jpg" group-title="24/7",24/7 | BOB ESPONJA
-http://195.66.210.10:80/Antoniogalvez/CNPFZ/531694
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | CASO CERRADO ⭐️" tvg-logo="https://ahoramismo.com/wp-content/uploads/2020/11/Caso-cerrado.jpg?quality=65&strip=all" group-title="24/7",24/7 | CASO CERRADO
-http://195.66.210.10:80/Antoniogalvez/CNPFZ/107845
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | CINEMA HORROR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7",24/7 | CINEMA HORROR
-http://195.66.210.10:80/Antoniogalvez/CNPFZ/177330
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | DISNEY PRINCESS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7",24/7 | DISNEY PRINCESS
-http://195.66.210.10:80/Antoniogalvez/CNPFZ/177323
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | DON GATO Y SU PANDILLA ⭐️" tvg-logo="https://e7.pngegg.com/pngimages/247/181/png-clipart-spider-man-youtube-rhino-various-comics-heroes-text.png" group-title="24/7",24/7 | DON GATO Y SU PANDILLA
-http://195.66.210.10:80/Antoniogalvez/CNPFZ/169819
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | ED, EDD Y EDDY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7",24/7 | ED, EDD Y EDDY
-http://195.66.210.10:80/Antoniogalvez/CNPFZ/531615
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL BEBE JEFAZO  ⭐️" tvg-logo="https://pics.filmaffinity.com/El_beb_jefazo_Vuelta_al_curro_Serie_de_TV-721264653-large.jpg" group-title="24/7",24/7 | EL BEBE JEFAZO
-http://195.66.210.10:80/Antoniogalvez/CNPFZ/107981
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | JIMMY NEUTRON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7",24/7 | JIMMY NEUTRON
 http://195.66.210.10:80/Antoniogalvez/CNPFZ/531667
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | JOHNNY BRAVO ⭐️" tvg-logo="https://i.pinimg.com/236x/df/04/2b/df042b2b0925dd60e45514abf8cf13bd--johnny-bravo-hair-gel.jpg" group-title="24/7",24/7 | JOHNNY BRAVO
 http://195.66.210.10:80/Antoniogalvez/CNPFZ/177182
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | KENAN & KEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7",24/7 | KENAN & KEL
+http://195.66.210.10:80/Antoniogalvez/CNPFZ/531673
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | LA FAMILIA PELUCHE ⭐️" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/La-familia-peluche-620x345.jpg/revision/latest?cb=20210429204350&path-prefix=es" group-title="24/7",24/7 | LA FAMILIA PELUCHE
 http://195.66.210.10:80/Antoniogalvez/CNPFZ/107929
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | LA HORMIGA ATOMICA ⭐️" tvg-logo="https://www.ecured.cu/images/thumb/3/38/La-hormiga-atomica.jpg/260px-La-hormiga-atomica.jpg" group-title="24/7",24/7 | LA HORMIGA ATOMICA
@@ -47,51 +57,43 @@ http://195.66.210.10:80/Antoniogalvez/CNPFZ/107885
 http://195.66.210.10:80/Antoniogalvez/CNPFZ/107989
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | LAS CHICAS SUPERPODEROSAS" tvg-logo="http://assets.stickpng.com/thumbs/59cfc96ed3b1936210a5ddde.png" group-title="24/7",24/7 | LAS CHICAS SUPERPODEROSAS
 http://195.66.210.10:80/Antoniogalvez/CNPFZ/108055
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LA VACA Y EL POLLITO" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="24/7",24/7 | La Vaca y el Pollito
+http://tvpremiund.ddns.me:2082/antonioiptv8/iptv2348d/49642
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LOS SIMPSONS" tvg-logo="https://i.imgur.com/mx1CCCP.jpg" group-title="24/7",24/7 | Los Simpsons
+http://gama-mx.com:8080/live/DiegoGuaman/Diego2529/226650.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | MR. BEAN ⭐️" tvg-logo="https://dl.dropboxusercontent.com/s/nl99a3o0e8hciom/bean.png" group-title="24/7",24/7 | MR. BEAN
 http://195.66.210.10:80/Antoniogalvez/CNPFZ/177113
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | PELÍCULAS SPIDER-MAN ⭐️" tvg-logo="https://w7.pngwing.com/pngs/702/302/png-transparent-red-and-blue-spider-man-illustration-spider-man-spider-man-comics-heroes-comic-book.png" group-title="24/7",24/7 | PELÍCULAS SPIDER-MAN
 http://195.66.210.10:80/Antoniogalvez/CNPFZ/217011
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | TOM Y JERRY ⭐️" tvg-logo="https://m.media-amazon.com/images/I/51v9mZqOqhL._AC_SS450_.jpg" group-title="24/7",24/7 | TOM Y JERRY
 http://195.66.210.10:80/Antoniogalvez/CNPFZ/108027
-#EXTINF:-1 tvg-id="" tvg-name="Chespirito 24/7" tvg-logo="https://img-sandiegored.buscafs.com/355915/355915_360x240.jpg" group-title="24/7",24/7 | Chespirito
-http://tvpremiund.ddns.me:2082/antonioiptv8/iptv2348d/48357
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Disney Pixar 24/7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="24/7",24/7 | Cinema Disney
-http://tvpremiund.ddns.me:2082/antonioiptv8/iptv2348d/31708
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Horror 24/7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="24/7",24/7 | Cinema Horror
-http://tvpremiund.ddns.me:2082/antonioiptv8/iptv2348d/31710
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Marvel 24/7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="24/7",24/7 | Cinema Marvel
-http://tvpremiund.ddns.me:2082/antonioiptv8/iptv2348d/31706
-#EXTINF:-1 tvg-id="" tvg-name="La Vaca y el Pollito 24/7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="24/7",24/7 | La Vaca y el Pollito
-http://tvpremiund.ddns.me:2082/antonioiptv8/iptv2348d/49642
-#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons 24/7" tvg-logo="https://i.imgur.com/mx1CCCP.jpg" group-title="24/7",24/7 | Los Simpsons
-http://gama-mx.com:8080/live/DiegoGuaman/Diego2529/226650.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | TOY STORY ⭐️" tvg-logo="http://panel.tured.live:8080/images/1069f1aba07d6c26f72572038b9f3ade.png" group-title="24/7",24/7 | TOY STORY
+http://195.66.210.10:80/Antoniogalvez/CNPFZ/177367
 
-#INFANTIL
-#EXTINF:-1 tvg-id="DISNEY HD.ar" tvg-name="Disney Channel HD" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/disneychannel.png" group-title="INFANTILES",INF | Disney Channel HD
-http://tvpremiund.ddns.me:2082/antonioiptv8/iptv2348d/30366
-
+############################
+#  INFANTIL
+############################
 #EXTINF:-1 tvg-id="cartoon.network.mexico.mx" tvg-name="INF | CARTOON NETWORK HD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/640px-Cartoon_Network_2010_logo.svg.png" group-title="INFANTILES",INF | CARTOON NETWORK HD
 http://195.66.210.10:80/Antoniogalvez/CNPFZ/54404
-
 #EXTINF:-1 tvg-id="cartoon.network.mexico.mx" tvg-name="INF | CARTOON NETWORK NORTE FHD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/640px-Cartoon_Network_2010_logo.svg.png" group-title="INFANTILES",INF | CARTOON NETWORK NORTE FHD
 http://195.66.210.10:80/Antoniogalvez/CNPFZ/211218
-
-#EXTINF:-1 tvg-id="NICKELODEON.ar" tvg-name="Nickelodeon HD" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/Nickelodeon-logo-png.png" group-title="INFANTILES",INF | Nickelodeon HD
+#EXTINF:-1 tvg-id="DISNEY HD.ar" tvg-name="INF | Disney Channel HD" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/disneychannel.png" group-title="INFANTILES",INF | Disney Channel HD
+http://tvpremiund.ddns.me:2082/antonioiptv8/iptv2348d/30366
+#EXTINF:-1 tvg-id="NICKELODEON.ar" tvg-name="INF | Nickelodeon HD" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/Nickelodeon-logo-png.png" group-title="INFANTILES",INF | Nickelodeon HD
 http://tvpremiund.ddns.me:2082/antonioiptv8/iptv2348d/42923
 
-
-#ESTRENOS 2025
+############################
+#  ESTRENOS 2025
+############################
+#EXTINF:-1 tvg-id="" tvg-name="F1 la película (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKIG63pXN89EfbTA7yKpwxAU1rf.jpg" group-title="Estrenos 2025",F1 la película (2025)
+http://tvpremiund.ddns.me:2082/movie/antonioiptv8/iptv2348d/82132.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic World: El renacer (CAM) (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fhBYsFNlYyfa7uxbzklSOPodFfq.jpg" group-title="Estrenos 2025",Jurassic World: El renacer (CAM) (2025)
+http://195.66.210.10:80/movie/Tommy23/xPSDsrDtk8/609626.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los 4 Fantásticos: Primeros pasos (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckfiXWGEMWrUP53cc6QyHijLlhl.jpg" group-title="Estrenos 2025",Los 4 Fantásticos: Primeros pasos (2025)
 http://tvpremiund.ddns.me:2082/movie/antonioiptv8/iptv2348d/82251.mp4
-
-#EXTINF:-1 tvg-name="Los tipos malos 2 (CAM) (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j0moebdCWDjjwS6bz1ohrsRp1Vp.jpg" group-title="Estrenos 2025",Los tipos malos 2 (CAM) (2025)
+#EXTINF:-1 tvg-id="" tvg-name="Los tipos malos 2 (CAM) (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j0moebdCWDjjwS6bz1ohrsRp1Vp.jpg" group-title="Estrenos 2025",Los tipos malos 2 (CAM) (2025)
 http://195.66.210.10:80/movie/Tommy23/xPSDsrDtk8/613262.mp4
-
 #EXTINF:-1 tvg-id="" tvg-name="Karate Kid: Leyendas (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bwNAjGUsHt35eqT0Aj8NHU02WPl.jpg" group-title="Estrenos 2025",Karate Kid: Leyendas (2025)
 http://tvpremiund.ddns.me:2082/movie/antonioiptv8/iptv2348d/82162.mkv
 
-#EXTINF:-1 tvg-name="Jurassic World: El renacer (CAM) (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fhBYsFNlYyfa7uxbzklSOPodFfq.jpg" group-title="Estrenos 2025",Jurassic World: El renacer (CAM) (2025)
-http://195.66.210.10:80/movie/Tommy23/xPSDsrDtk8/609626.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="F1 la película (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKIG63pXN89EfbTA7yKpwxAU1rf.jpg" group-title="Estrenos 2025",F1 la película (2025)
-http://tvpremiund.ddns.me:2082/movie/antonioiptv8/iptv2348d/82132.mp4
